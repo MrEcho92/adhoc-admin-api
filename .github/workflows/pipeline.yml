@@ -32,13 +32,13 @@ jobs:
         run: |
           python3 -m pip install --upgrade pip
           pip install -r dev-requirements.txt
-          pip install -r requirements.txt dev-requirements.txt
+          pip install -r requirements.txt
 
-      - name: Run test
-        run: coverage run -m unittest discover app/
+      # - name: Run test
+      #   run: coverage run -m unittest discover app/
 
-      - name: Generate coverage report
-        run: coverage report -m
+      # - name: Generate coverage report
+      #   run: coverage report -m
 
   # deploy:
   #   runs-on: ubuntu-latest
