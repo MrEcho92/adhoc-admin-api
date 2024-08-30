@@ -1,0 +1,935 @@
+Constituency Code,Constituency Name,ID,COMPANY,Company type,Note,website,Percentage of constituency's properties in this area
+E14000530,Aldershot,SEW,South East Water,regional water only company,,https://www.southeastwater.co.uk/,100.0%
+E14000531,Aldridge-Brownhills,SSC,South Staffordshire Water,regional water only company,,https://www.south-staffs-water.co.uk/,100.0%
+E14000532,Altrincham and Sale West,UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,100.0%
+E14000533,Amber Valley,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,100.0%
+E14000534,Arundel and South Downs,SRN,Southern Water,regional water and sewerage company,,https://www.southernwater.co.uk/,73.0%
+E14000534,Arundel and South Downs,SEW,South East Water,regional water only company,,https://www.southeastwater.co.uk/,15.2%
+E14000534,Arundel and South Downs,PRT,Portsmouth Water,regional water only company,,https://www.portsmouthwater.co.uk/,11.7%
+E14000535,Ashfield,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,100.0%
+E14000536,Ashford,SEW,South East Water,regional water only company,,https://www.southeastwater.co.uk/,99.0%
+E14000536,Ashford,IWN,Independent Water Networks,small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.iwnl.co.uk/,0.6%
+E14000536,Ashford,ICO,Icosa Water Services,small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.icosawater.co.uk/,0.5%
+E14000537,Ashton-under-Lyne,UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,100.0%
+E14000538,Aylesbury,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,87.3%
+E14000538,Aylesbury,AFW,Affinity Water,regional water only company,,https://www.affinitywater.co.uk/,7.0%
+E14000538,Aylesbury,IWN,Independent Water Networks,small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.iwnl.co.uk/,5.7%
+E14000539,Banbury,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,97.5%
+E14000539,Banbury,SSE,Leep Networks (Water),small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.leeputilities.co.uk/water,2.5%
+E14000539,Banbury,ANH,Anglian Water,regional water and sewerage company,,https://www.anglianwater.co.uk/,0.0%
+E14000539,Banbury,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,0.0%
+E14000540,Barking,NES,Essex & Suffolk Water (part of Northumbrian Water),regional water and sewerage company,,https://www.nwl.co.uk/,96.6%
+E14000540,Barking,SSE,Leep Networks (Water),small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.leeputilities.co.uk/water,3.4%
+E14000541,Barnsley Central,YKY,Yorkshire Water,regional water and sewerage company,,https://www.yorkshirewater.com/,100.0%
+E14000542,Barnsley East,YKY,Yorkshire Water,regional water and sewerage company,,https://www.yorkshirewater.com/,100.0%
+E14000543,Barrow and Furness,UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,100.0%
+E14000544,Basildon and Billericay,NES,Essex & Suffolk Water (part of Northumbrian Water),regional water and sewerage company,,https://www.nwl.co.uk/,100.0%
+E14000545,Basingstoke,SEW,South East Water,regional water only company,,https://www.southeastwater.co.uk/,99.8%
+E14000545,Basingstoke,STS,Severn Trent Services,small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.stwater.co.uk/,0.2%
+E14000546,Bassetlaw,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,60.2%
+E14000546,Bassetlaw,ANH,Anglian Water,regional water and sewerage company,,https://www.anglianwater.co.uk/,39.5%
+E14000546,Bassetlaw,YKY,Yorkshire Water,regional water and sewerage company,,https://www.yorkshirewater.com/,0.3%
+E14000547,Bath,WSX,Wessex Water,regional water and sewerage company,,https://www.wessexwater.co.uk/,100.0%
+E14000548,Batley and Spen,YKY,Yorkshire Water,regional water and sewerage company,,https://www.yorkshirewater.com/,100.0%
+E14000549,Battersea,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,95.4%
+E14000549,Battersea,SSE,Leep Networks (Water),small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.leeputilities.co.uk/water,4.6%
+E14000550,Beaconsfield,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,62.2%
+E14000550,Beaconsfield,AFW,Affinity Water,regional water only company,,https://www.affinitywater.co.uk/,37.7%
+E14000550,Beaconsfield,SEW,South East Water,regional water only company,,https://www.southeastwater.co.uk/,0.2%
+E14000551,Beckenham,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,98.1%
+E14000551,Beckenham,SSE,Leep Networks (Water),small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.leeputilities.co.uk/water,1.9%
+E14000552,Bedford,ANH,Anglian Water,regional water and sewerage company,,https://www.anglianwater.co.uk/,100.0%
+E14000553,Bermondsey and Old Southwark,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,100.0%
+E14000554,Berwick-upon-Tweed,NES,Northumbrian Water,regional water and sewerage company,,https://www.nwl.co.uk/,100.0%
+E14000555,Bethnal Green and Bow,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,100.0%
+E14000556,Beverley and Holderness,YKY,Yorkshire Water,regional water and sewerage company,,https://www.yorkshirewater.com/,99.9%
+E14000556,Beverley and Holderness,IWN,Independent Water Networks,small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.iwnl.co.uk/,0.1%
+E14000557,Bexhill and Battle,SEW,South East Water,regional water only company,,https://www.southeastwater.co.uk/,99.3%
+E14000557,Bexhill and Battle,ICO,Icosa Water Services,small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.icosawater.co.uk/,0.6%
+E14000557,Bexhill and Battle,SRN,Southern Water,regional water and sewerage company,,https://www.southernwater.co.uk/,0.1%
+E14000558,Bexleyheath and Crayford,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,100.0%
+E14000559,Birkenhead,UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,100.0%
+E14000560,"Birmingham, Edgbaston",SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,99.6%
+E14000560,"Birmingham, Edgbaston",SSC,South Staffordshire Water,regional water only company,,https://www.south-staffs-water.co.uk/,0.4%
+E14000561,"Birmingham, Erdington",SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,99.0%
+E14000561,"Birmingham, Erdington",SSC,South Staffordshire Water,regional water only company,,https://www.south-staffs-water.co.uk/,1.0%
+E14000562,"Birmingham, Hall Green",SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,100.0%
+E14000563,"Birmingham, Hodge Hill",SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,100.0%
+E14000564,"Birmingham, Ladywood",SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,100.0%
+E14000564,"Birmingham, Ladywood",SSC,South Staffordshire Water,regional water only company,,https://www.south-staffs-water.co.uk/,0.0%
+E14000565,"Birmingham, Northfield",SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,100.0%
+E14000566,"Birmingham, Perry Barr",SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,100.0%
+E14000566,"Birmingham, Perry Barr",SSC,South Staffordshire Water,regional water only company,,https://www.south-staffs-water.co.uk/,0.0%
+E14000567,"Birmingham, Selly Oak",SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,100.0%
+E14000568,"Birmingham, Yardley",SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,100.0%
+E14000569,Bishop Auckland,NES,Northumbrian Water,regional water and sewerage company,,https://www.nwl.co.uk/,100.0%
+E14000569,Bishop Auckland,YKY,Yorkshire Water,regional water and sewerage company,,https://www.yorkshirewater.com/,0.0%
+E14000569,Bishop Auckland,UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,0.0%
+E14000570,Blackburn,UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,100.0%
+E14000571,Blackley and Broughton,UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,100.0%
+E14000572,Blackpool North and Cleveleys,UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,100.0%
+E14000573,Blackpool South,UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,100.0%
+E14000574,Blaydon,NES,Northumbrian Water,regional water and sewerage company,,https://www.nwl.co.uk/,100.0%
+E14000575,Blyth Valley,NES,Northumbrian Water,regional water and sewerage company,,https://www.nwl.co.uk/,100.0%
+E14000576,Bognor Regis and Littlehampton,PRT,Portsmouth Water,regional water only company,,https://www.portsmouthwater.co.uk/,70.8%
+E14000576,Bognor Regis and Littlehampton,SRN,Southern Water,regional water and sewerage company,,https://www.southernwater.co.uk/,28.5%
+E14000576,Bognor Regis and Littlehampton,ICO,Icosa Water Services,small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.icosawater.co.uk/,0.6%
+E14000577,Bolsover,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,100.0%
+E14000578,Bolton North East,UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,100.0%
+E14000579,Bolton South East,UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,100.0%
+E14000580,Bolton West,UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,100.0%
+E14000581,Bootle,UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,100.0%
+E14000582,Boston and Skegness,ANH,Anglian Water,regional water and sewerage company,,https://www.anglianwater.co.uk/,100.0%
+E14000583,Bosworth,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,100.0%
+E14000584,Bournemouth East,SWB,Bournemouth Water (part of South West Water),regional water and sewerage company,,https://www.southwestwater.co.uk/,100.0%
+E14000585,Bournemouth West,SWB,Bournemouth Water (part of South West Water),regional water and sewerage company,,https://www.southwestwater.co.uk/,97.8%
+E14000585,Bournemouth West,WSX,Wessex Water,regional water and sewerage company,,https://www.wessexwater.co.uk/,2.2%
+E14000586,Bracknell,SEW,South East Water,regional water only company,,https://www.southeastwater.co.uk/,97.7%
+E14000586,Bracknell,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,1.5%
+E14000586,Bracknell,AFW,Affinity Water,regional water only company,,https://www.affinitywater.co.uk/,0.8%
+E14000587,Bradford East,YKY,Yorkshire Water,regional water and sewerage company,,https://www.yorkshirewater.com/,100.0%
+E14000588,Bradford South,YKY,Yorkshire Water,regional water and sewerage company,,https://www.yorkshirewater.com/,100.0%
+E14000589,Bradford West,YKY,Yorkshire Water,regional water and sewerage company,,https://www.yorkshirewater.com/,100.0%
+E14000590,Braintree,ANH,Anglian Water,regional water and sewerage company,,https://www.anglianwater.co.uk/,100.0%
+E14000590,Braintree,AFW,Affinity Water,regional water only company,,https://www.affinitywater.co.uk/,0.0%
+E14000590,Braintree,NES,Essex & Suffolk Water (part of Northumbrian Water),regional water and sewerage company,,https://www.nwl.co.uk/,0.0%
+E14000591,Brent Central,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,76.5%
+E14000591,Brent Central,AFW,Affinity Water,regional water only company,,https://www.affinitywater.co.uk/,23.5%
+E14000592,Brent North,AFW,Affinity Water,regional water only company,,https://www.affinitywater.co.uk/,100.0%
+E14000592,Brent North,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,0.0%
+E14000593,Brentford and Isleworth,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,100.0%
+E14000594,Brentwood and Ongar,NES,Essex & Suffolk Water (part of Northumbrian Water),regional water and sewerage company,,https://www.nwl.co.uk/,69.0%
+E14000594,Brentwood and Ongar,AFW,Affinity Water,regional water only company,,https://www.affinitywater.co.uk/,30.9%
+E14000594,Brentwood and Ongar,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,0.0%
+E14000595,Bridgwater and West Somerset,WSX,Wessex Water,regional water and sewerage company,,https://www.wessexwater.co.uk/,99.8%
+E14000595,Bridgwater and West Somerset,SWB,South West Water,regional water and sewerage company,,https://www.southwestwater.co.uk/,0.2%
+E14000595,Bridgwater and West Somerset,BRL,Bristol Water,regional water only company,,https://www.bristolwater.co.uk/,0.0%
+E14000596,Brigg and Goole,YKY,Yorkshire Water,regional water and sewerage company,,https://www.yorkshirewater.com/,62.2%
+E14000596,Brigg and Goole,ANH,Anglian Water,regional water and sewerage company,,https://www.anglianwater.co.uk/,37.8%
+E14000596,Brigg and Goole,IWN,Independent Water Networks,small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.iwnl.co.uk/,0.0%
+E14000597,"Brighton, Kemptown",SRN,Southern Water,regional water and sewerage company,,https://www.southernwater.co.uk/,84.8%
+E14000597,"Brighton, Kemptown",SEW,South East Water,regional water only company,,https://www.southeastwater.co.uk/,15.2%
+E14000598,"Brighton, Pavilion",SRN,Southern Water,regional water and sewerage company,,https://www.southernwater.co.uk/,100.0%
+E14000599,Bristol East,BRL,Bristol Water,regional water only company,,https://www.bristolwater.co.uk/,100.0%
+E14000600,Bristol North West,BRL,Bristol Water,regional water only company,,https://www.bristolwater.co.uk/,100.0%
+E14000601,Bristol South,BRL,Bristol Water,regional water only company,,https://www.bristolwater.co.uk/,100.0%
+E14000602,Bristol West,BRL,Bristol Water,regional water only company,,https://www.bristolwater.co.uk/,100.0%
+E14000603,Broadland,ANH,Anglian Water,regional water and sewerage company,,https://www.anglianwater.co.uk/,99.4%
+E14000603,Broadland,ICO,Icosa Water Services,small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.icosawater.co.uk/,0.5%
+E14000603,Broadland,IWN,Independent Water Networks,small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.iwnl.co.uk/,0.1%
+E14000604,Bromley and Chislehurst,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,100.0%
+E14000605,Bromsgrove,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,97.8%
+E14000605,Bromsgrove,SSC,South Staffordshire Water,regional water only company,,https://www.south-staffs-water.co.uk/,2.2%
+E14000606,Broxbourne,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,94.8%
+E14000606,Broxbourne,AFW,Affinity Water,regional water only company,,https://www.affinitywater.co.uk/,5.2%
+E14000607,Broxtowe,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,100.0%
+E14000608,Buckingham,ANH,Anglian Water,regional water and sewerage company,,https://www.anglianwater.co.uk/,57.3%
+E14000608,Buckingham,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,40.5%
+E14000608,Buckingham,SSE,Leep Networks (Water),small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.leeputilities.co.uk/water,1.8%
+E14000608,Buckingham,AFW,Affinity Water,regional water only company,,https://www.affinitywater.co.uk/,0.3%
+E14000609,Burnley,UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,100.0%
+E14000610,Burton,SSC,South Staffordshire Water,regional water only company,,https://www.south-staffs-water.co.uk/,99.9%
+E14000610,Burton,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,0.1%
+E14000611,Bury North,UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,100.0%
+E14000612,Bury South,UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,100.0%
+E14000613,Bury St Edmunds,ANH,Anglian Water,regional water and sewerage company,,https://www.anglianwater.co.uk/,93.8%
+E14000613,Bury St Edmunds,NES,Essex & Suffolk Water (part of Northumbrian Water),regional water and sewerage company,,https://www.nwl.co.uk/,6.2%
+E14000614,Calder Valley,YKY,Yorkshire Water,regional water and sewerage company,,https://www.yorkshirewater.com/,100.0%
+E14000614,Calder Valley,UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,0.0%
+E14000615,Camberwell and Peckham,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,100.0%
+E14000616,Camborne and Redruth,SWB,South West Water,regional water and sewerage company,,https://www.southwestwater.co.uk/,100.0%
+E14000617,Cambridge,SSC,Cambridge Water (part of South Staffs Water),regional water only company,,https://www.south-staffs-water.co.uk/,100.0%
+E14000618,Cannock Chase,SSC,South Staffordshire Water,regional water only company,,https://www.south-staffs-water.co.uk/,99.9%
+E14000618,Cannock Chase,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,0.1%
+E14000619,Canterbury,SEW,South East Water,regional water only company,,https://www.southeastwater.co.uk/,93.6%
+E14000619,Canterbury,SRN,Southern Water,regional water and sewerage company,,https://www.southernwater.co.uk/,4.9%
+E14000619,Canterbury,AFW,Affinity Water,regional water only company,,https://www.affinitywater.co.uk/,1.5%
+E14000619,Canterbury,IWN,Independent Water Networks,small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.iwnl.co.uk/,0.0%
+E14000620,Carlisle,UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,100.0%
+E14000621,Carshalton and Wallington,SES,SES Water,regional water only company,,https://seswater.co.uk/,99.3%
+E14000621,Carshalton and Wallington,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,0.7%
+E14000622,Castle Point,NES,Essex & Suffolk Water (part of Northumbrian Water),regional water and sewerage company,,https://www.nwl.co.uk/,100.0%
+E14000623,Central Devon,SWB,South West Water,regional water and sewerage company,,https://www.southwestwater.co.uk/,100.0%
+E14000624,Central Suffolk and North Ipswich,ANH,Anglian Water,regional water and sewerage company,,https://www.anglianwater.co.uk/,69.8%
+E14000624,Central Suffolk and North Ipswich,NES,Essex & Suffolk Water (part of Northumbrian Water),regional water and sewerage company,,https://www.nwl.co.uk/,30.2%
+E14000624,Central Suffolk and North Ipswich,IWN,Independent Water Networks,small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.iwnl.co.uk/,0.0%
+E14000625,Charnwood,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,100.0%
+E14000626,Chatham and Aylesford,SRN,Southern Water,regional water and sewerage company,,https://www.southernwater.co.uk/,58.7%
+E14000626,Chatham and Aylesford,SEW,South East Water,regional water only company,,https://www.southeastwater.co.uk/,41.3%
+E14000627,Cheadle,UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,100.0%
+E14000628,Chelmsford,NES,Essex & Suffolk Water (part of Northumbrian Water),regional water and sewerage company,,https://www.nwl.co.uk/,100.0%
+E14000629,Chelsea and Fulham,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,100.0%
+E14000630,Cheltenham,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,100.0%
+E14000631,Chesham and Amersham,AFW,Affinity Water,regional water only company,,https://www.affinitywater.co.uk/,98.8%
+E14000631,Chesham and Amersham,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,1.2%
+E14000632,Chesterfield,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,100.0%
+E14000633,Chichester,PRT,Portsmouth Water,regional water only company,,https://www.portsmouthwater.co.uk/,78.8%
+E14000633,Chichester,SRN,Southern Water,regional water and sewerage company,,https://www.southernwater.co.uk/,15.8%
+E14000633,Chichester,SEW,South East Water,regional water only company,,https://www.southeastwater.co.uk/,4.5%
+E14000633,Chichester,SSE,Leep Networks (Water),small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.leeputilities.co.uk/water,0.8%
+E14000633,Chichester,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,0.1%
+E14000634,Chingford and Woodford Green,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,100.0%
+E14000635,Chippenham,WSX,Wessex Water,regional water and sewerage company,,https://www.wessexwater.co.uk/,100.0%
+E14000636,Chipping Barnet,AFW,Affinity Water,regional water only company,,https://www.affinitywater.co.uk/,100.0%
+E14000636,Chipping Barnet,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,0.0%
+E14000637,Chorley,UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,100.0%
+E14000638,Christchurch,SWB,Bournemouth Water (part of South West Water),regional water and sewerage company,,https://www.southwestwater.co.uk/,100.0%
+E14000639,Cities of London and Westminster,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,100.0%
+E14000640,City of Chester,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,96.1%
+E14000640,City of Chester,UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,3.9%
+E14000640,City of Chester,WSH,Dŵr Cymru,regional water and sewerage company,,https://www.dwrcymru.com/en,0.0%
+E14000641,City of Durham,NES,Northumbrian Water,regional water and sewerage company,,https://www.nwl.co.uk/,100.0%
+E14000642,Clacton,AFW,Affinity Water,regional water only company,,https://www.affinitywater.co.uk/,99.5%
+E14000642,Clacton,IWN,Independent Water Networks,small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.iwnl.co.uk/,0.5%
+E14000643,Cleethorpes,ANH,Anglian Water,regional water and sewerage company,,https://www.anglianwater.co.uk/,100.0%
+E14000644,Colchester,ANH,Anglian Water,regional water and sewerage company,,https://www.anglianwater.co.uk/,99.9%
+E14000644,Colchester,IWN,Independent Water Networks,small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.iwnl.co.uk/,0.1%
+E14000644,Colchester,AFW,Affinity Water,regional water only company,,https://www.affinitywater.co.uk/,0.0%
+E14000645,Colne Valley,YKY,Yorkshire Water,regional water and sewerage company,,https://www.yorkshirewater.com/,100.0%
+E14000646,Congleton,UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,100.0%
+E14000646,Congleton,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,0.0%
+E14000647,Copeland,UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,100.0%
+E14000648,Corby,ANH,Anglian Water,regional water and sewerage company,,https://www.anglianwater.co.uk/,96.2%
+E14000648,Corby,IWN,Independent Water Networks,small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.iwnl.co.uk/,3.8%
+E14000649,Coventry North East,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,100.0%
+E14000650,Coventry North West,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,100.0%
+E14000651,Coventry South,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,100.0%
+E14000652,Crawley,SRN,Southern Water,regional water and sewerage company,,https://www.southernwater.co.uk/,87.3%
+E14000652,Crawley,SEW,South East Water,regional water only company,,https://www.southeastwater.co.uk/,8.1%
+E14000652,Crawley,SES,SES Water,regional water only company,,https://seswater.co.uk/,2.4%
+E14000652,Crawley,IWN,Independent Water Networks,small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.iwnl.co.uk/,2.2%
+E14000653,Crewe and Nantwich,UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,100.0%
+E14000653,Crewe and Nantwich,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,0.0%
+E14000654,Croydon Central,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,100.0%
+E14000655,Croydon North,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,99.2%
+E14000655,Croydon North,SSE,Leep Networks (Water),small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.leeputilities.co.uk/water,0.5%
+E14000655,Croydon North,SES,SES Water,regional water only company,,https://seswater.co.uk/,0.3%
+E14000656,Croydon South,SES,SES Water,regional water only company,,https://seswater.co.uk/,65.3%
+E14000656,Croydon South,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,34.6%
+E14000656,Croydon South,SSE,Leep Networks (Water),small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.leeputilities.co.uk/water,0.1%
+E14000657,Dagenham and Rainham,NES,Essex & Suffolk Water (part of Northumbrian Water),regional water and sewerage company,,https://www.nwl.co.uk/,100.0%
+E14000658,Darlington,NES,Northumbrian Water,regional water and sewerage company,,https://www.nwl.co.uk/,100.0%
+E14000659,Dartford,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,87.6%
+E14000659,Dartford,SEW,South East Water,regional water only company,,https://www.southeastwater.co.uk/,8.6%
+E14000659,Dartford,IWN,Independent Water Networks,small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.iwnl.co.uk/,3.3%
+E14000659,Dartford,SRN,Southern Water,regional water and sewerage company,,https://www.southernwater.co.uk/,0.6%
+E14000660,Daventry,ANH,Anglian Water,regional water and sewerage company,,https://www.anglianwater.co.uk/,100.0%
+E14000660,Daventry,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,0.0%
+E14000660,Daventry,IWN,Independent Water Networks,small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.iwnl.co.uk/,0.0%
+E14000661,Denton and Reddish,UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,100.0%
+E14000662,Derby North,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,100.0%
+E14000662,Derby North,SSC,South Staffordshire Water,regional water only company,,https://www.south-staffs-water.co.uk/,0.0%
+E14000663,Derby South,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,99.1%
+E14000663,Derby South,IWN,Independent Water Networks,small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.iwnl.co.uk/,0.9%
+E14000664,Derbyshire Dales,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,100.0%
+E14000664,Derbyshire Dales,SSC,South Staffordshire Water,regional water only company,,https://www.south-staffs-water.co.uk/,0.0%
+E14000665,Devizes,WSX,Wessex Water,regional water and sewerage company,,https://www.wessexwater.co.uk/,68.8%
+E14000665,Devizes,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,22.7%
+E14000665,Devizes,VWS,Veolia Water Projects,small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.veoliawatertechnologies.co.uk/,8.3%
+E14000665,Devizes,SRN,Southern Water,regional water and sewerage company,,https://www.southernwater.co.uk/,0.2%
+E14000666,Dewsbury,YKY,Yorkshire Water,regional water and sewerage company,,https://www.yorkshirewater.com/,100.0%
+E14000667,Don Valley,YKY,Yorkshire Water,regional water and sewerage company,,https://www.yorkshirewater.com/,96.7%
+E14000667,Don Valley,ANH,Anglian Water,regional water and sewerage company,,https://www.anglianwater.co.uk/,1.7%
+E14000667,Don Valley,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,1.6%
+E14000668,Doncaster Central,YKY,Yorkshire Water,regional water and sewerage company,,https://www.yorkshirewater.com/,100.0%
+E14000669,Doncaster North,YKY,Yorkshire Water,regional water and sewerage company,,https://www.yorkshirewater.com/,100.0%
+E14000670,Dover,AFW,Affinity Water,regional water only company,,https://www.affinitywater.co.uk/,62.3%
+E14000670,Dover,SRN,Southern Water,regional water and sewerage company,,https://www.southernwater.co.uk/,37.7%
+E14000671,Dudley North,SSC,South Staffordshire Water,regional water only company,,https://www.south-staffs-water.co.uk/,98.7%
+E14000671,Dudley North,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,1.3%
+E14000672,Dudley South,SSC,South Staffordshire Water,regional water only company,,https://www.south-staffs-water.co.uk/,80.5%
+E14000672,Dudley South,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,19.5%
+E14000673,Dulwich and West Norwood,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,100.0%
+E14000674,Ealing Central and Acton,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,98.4%
+E14000674,Ealing Central and Acton,AFW,Affinity Water,regional water only company,,https://www.affinitywater.co.uk/,1.6%
+E14000675,Ealing North,AFW,Affinity Water,regional water only company,,https://www.affinitywater.co.uk/,75.8%
+E14000675,Ealing North,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,24.2%
+E14000676,"Ealing, Southall",AFW,Affinity Water,regional water only company,,https://www.affinitywater.co.uk/,62.6%
+E14000676,"Ealing, Southall",TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,37.4%
+E14000677,Easington,NES,Northumbrian Water,regional water and sewerage company,,https://www.nwl.co.uk/,100.0%
+E14000677,Easington,ANH,Hartlepool Water (part of Anglian Water),regional water and sewerage company,,https://www.anglianwater.co.uk/,0.0%
+E14000678,East Devon,SWB,South West Water,regional water and sewerage company,,https://www.southwestwater.co.uk/,100.0%
+E14000679,East Ham,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,100.0%
+E14000679,East Ham,NES,Essex & Suffolk Water (part of Northumbrian Water),regional water and sewerage company,,https://www.nwl.co.uk/,0.0%
+E14000680,East Hampshire,SEW,South East Water,regional water only company,,https://www.southeastwater.co.uk/,100.0%
+E14000680,East Hampshire,PRT,Portsmouth Water,regional water only company,,https://www.portsmouthwater.co.uk/,0.0%
+E14000680,East Hampshire,SRN,Southern Water,regional water and sewerage company,,https://www.southernwater.co.uk/,0.0%
+E14000681,East Surrey,SES,SES Water,regional water only company,,https://seswater.co.uk/,98.5%
+E14000681,East Surrey,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,1.5%
+E14000681,East Surrey,SEW,South East Water,regional water only company,,https://www.southeastwater.co.uk/,0.0%
+E14000682,East Worthing and Shoreham,SRN,Southern Water,regional water and sewerage company,,https://www.southernwater.co.uk/,100.0%
+E14000683,East Yorkshire,YKY,Yorkshire Water,regional water and sewerage company,,https://www.yorkshirewater.com/,100.0%
+E14000684,Eastbourne,SEW,South East Water,regional water only company,,https://www.southeastwater.co.uk/,100.0%
+E14000685,Eastleigh,SRN,Southern Water,regional water and sewerage company,,https://www.southernwater.co.uk/,99.9%
+E14000685,Eastleigh,PRT,Portsmouth Water,regional water only company,,https://www.portsmouthwater.co.uk/,0.1%
+E14000686,Eddisbury,UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,93.5%
+E14000686,Eddisbury,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,6.5%
+E14000687,Edmonton,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,100.0%
+E14000688,Ellesmere Port and Neston,UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,93.6%
+E14000688,Ellesmere Port and Neston,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,6.4%
+E14000689,Elmet and Rothwell,YKY,Yorkshire Water,regional water and sewerage company,,https://www.yorkshirewater.com/,100.0%
+E14000690,Eltham,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,100.0%
+E14000691,Enfield North,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,100.0%
+E14000691,Enfield North,AFW,Affinity Water,regional water only company,,https://www.affinitywater.co.uk/,0.0%
+E14000692,"Enfield, Southgate",TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,93.9%
+E14000692,"Enfield, Southgate",AFW,Affinity Water,regional water only company,,https://www.affinitywater.co.uk/,6.1%
+E14000693,Epping Forest,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,79.5%
+E14000693,Epping Forest,AFW,Affinity Water,regional water only company,,https://www.affinitywater.co.uk/,20.5%
+E14000694,Epsom and Ewell,SES,SES Water,regional water only company,,https://seswater.co.uk/,58.8%
+E14000694,Epsom and Ewell,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,40.6%
+E14000694,Epsom and Ewell,SSE,Leep Networks (Water),small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.leeputilities.co.uk/water,0.6%
+E14000695,Erewash,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,100.0%
+E14000696,Erith and Thamesmead,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,100.0%
+E14000697,Esher and Walton,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,48.2%
+E14000697,Esher and Walton,AFW,Affinity Water,regional water only company,,https://www.affinitywater.co.uk/,35.8%
+E14000697,Esher and Walton,SES,SES Water,regional water only company,,https://seswater.co.uk/,16.1%
+E14000698,Exeter,SWB,South West Water,regional water and sewerage company,,https://www.southwestwater.co.uk/,100.0%
+E14000699,Fareham,PRT,Portsmouth Water,regional water only company,,https://www.portsmouthwater.co.uk/,57.8%
+E14000699,Fareham,SRN,Southern Water,regional water and sewerage company,,https://www.southernwater.co.uk/,42.2%
+E14000700,Faversham and Mid Kent,SEW,South East Water,regional water only company,,https://www.southeastwater.co.uk/,95.3%
+E14000700,Faversham and Mid Kent,SRN,Southern Water,regional water and sewerage company,,https://www.southernwater.co.uk/,3.6%
+E14000700,Faversham and Mid Kent,ICO,Icosa Water Services,small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.icosawater.co.uk/,0.7%
+E14000700,Faversham and Mid Kent,IWN,Independent Water Networks,small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.iwnl.co.uk/,0.4%
+E14000701,Feltham and Heston,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,58.8%
+E14000701,Feltham and Heston,AFW,Affinity Water,regional water only company,,https://www.affinitywater.co.uk/,41.2%
+E14000702,Filton and Bradley Stoke,BRL,Bristol Water,regional water only company,,https://www.bristolwater.co.uk/,100.0%
+E14000703,Finchley and Golders Green,AFW,Affinity Water,regional water only company,,https://www.affinitywater.co.uk/,58.7%
+E14000703,Finchley and Golders Green,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,41.3%
+E14000704,Folkestone and Hythe,AFW,Affinity Water,regional water only company,,https://www.affinitywater.co.uk/,92.8%
+E14000704,Folkestone and Hythe,SEW,South East Water,regional water only company,,https://www.southeastwater.co.uk/,6.9%
+E14000704,Folkestone and Hythe,IWN,Independent Water Networks,small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.iwnl.co.uk/,0.3%
+E14000705,Forest of Dean,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,94.5%
+E14000705,Forest of Dean,WSH,Dŵr Cymru,regional water and sewerage company,,https://www.dwrcymru.com/en,5.5%
+E14000705,Forest of Dean,BRL,Bristol Water,regional water only company,,https://www.bristolwater.co.uk/,0.0%
+E14000706,Fylde,UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,100.0%
+E14000707,Gainsborough,ANH,Anglian Water,regional water and sewerage company,,https://www.anglianwater.co.uk/,99.8%
+E14000707,Gainsborough,IWN,Independent Water Networks,small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.iwnl.co.uk/,0.2%
+E14000708,Garston and Halewood,UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,99.8%
+E14000708,Garston and Halewood,LEP,Leep Networks (Water),small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.leeputilities.co.uk/water,0.2%
+E14000709,Gateshead,NES,Northumbrian Water,regional water and sewerage company,,https://www.nwl.co.uk/,100.0%
+E14000710,Gedling,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,100.0%
+E14000711,Gillingham and Rainham,SRN,Southern Water,regional water and sewerage company,,https://www.southernwater.co.uk/,100.0%
+E14000711,Gillingham and Rainham,IWN,Independent Water Networks,small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.iwnl.co.uk/,0.0%
+E14000712,Gloucester,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,100.0%
+E14000713,Gosport,PRT,Portsmouth Water,regional water only company,,https://www.portsmouthwater.co.uk/,100.0%
+E14000714,Grantham and Stamford,ANH,Anglian Water,regional water and sewerage company,,https://www.anglianwater.co.uk/,100.0%
+E14000714,Grantham and Stamford,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,0.0%
+E14000715,Gravesham,SRN,Southern Water,regional water and sewerage company,,https://www.southernwater.co.uk/,99.9%
+E14000715,Gravesham,SEW,South East Water,regional water only company,,https://www.southeastwater.co.uk/,0.1%
+E14000715,Gravesham,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,0.0%
+E14000716,Great Grimsby,ANH,Anglian Water,regional water and sewerage company,,https://www.anglianwater.co.uk/,100.0%
+E14000717,Great Yarmouth,NES,Essex & Suffolk Water (part of Northumbrian Water),regional water and sewerage company,,https://www.nwl.co.uk/,95.6%
+E14000717,Great Yarmouth,ANH,Anglian Water,regional water and sewerage company,,https://www.anglianwater.co.uk/,4.4%
+E14000718,Greenwich and Woolwich,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,98.0%
+E14000718,Greenwich and Woolwich,SSE,Leep Networks (Water),small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.leeputilities.co.uk/water,1.0%
+E14000718,Greenwich and Woolwich,IWN,Independent Water Networks,small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.iwnl.co.uk/,1.0%
+E14000719,Guildford,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,88.0%
+E14000719,Guildford,AFW,Affinity Water,regional water only company,,https://www.affinitywater.co.uk/,10.3%
+E14000719,Guildford,SEW,South East Water,regional water only company,,https://www.southeastwater.co.uk/,1.7%
+E14000719,Guildford,SRN,Southern Water,regional water and sewerage company,,https://www.southernwater.co.uk/,0.0%
+E14000720,Hackney North and Stoke Newington,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,100.0%
+E14000721,Hackney South and Shoreditch,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,100.0%
+E14000722,Halesowen and Rowley Regis,SSC,South Staffordshire Water,regional water only company,,https://www.south-staffs-water.co.uk/,99.6%
+E14000722,Halesowen and Rowley Regis,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,0.4%
+E14000723,Halifax,YKY,Yorkshire Water,regional water and sewerage company,,https://www.yorkshirewater.com/,100.0%
+E14000724,Haltemprice and Howden,YKY,Yorkshire Water,regional water and sewerage company,,https://www.yorkshirewater.com/,99.9%
+E14000724,Haltemprice and Howden,IWN,Independent Water Networks,small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.iwnl.co.uk/,0.1%
+E14000725,Halton,UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,100.0%
+E14000726,Hammersmith,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,99.4%
+E14000726,Hammersmith,SSE,Leep Networks (Water),small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.leeputilities.co.uk/water,0.6%
+E14000727,Hampstead and Kilburn,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,100.0%
+E14000727,Hampstead and Kilburn,AFW,Affinity Water,regional water only company,,https://www.affinitywater.co.uk/,0.0%
+E14000728,Harborough,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,98.9%
+E14000728,Harborough,SSE,Leep Networks (Water),small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.leeputilities.co.uk/water,1.1%
+E14000729,Harlow,AFW,Affinity Water,regional water only company,,https://www.affinitywater.co.uk/,100.0%
+E14000729,Harlow,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,0.0%
+E14000730,Harrogate and Knaresborough,YKY,Yorkshire Water,regional water and sewerage company,,https://www.yorkshirewater.com/,100.0%
+E14000730,Harrogate and Knaresborough,IWN,Independent Water Networks,small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.iwnl.co.uk/,0.0%
+E14000731,Harrow East,AFW,Affinity Water,regional water only company,,https://www.affinitywater.co.uk/,100.0%
+E14000732,Harrow West,AFW,Affinity Water,regional water only company,,https://www.affinitywater.co.uk/,100.0%
+E14000733,Hartlepool,ANH,Hartlepool Water (part of Anglian Water),regional water and sewerage company,,https://www.anglianwater.co.uk/,99.8%
+E14000733,Hartlepool,NES,Northumbrian Water,regional water and sewerage company,,https://www.nwl.co.uk/,0.2%
+E14000734,Harwich and North Essex,AFW,Affinity Water,regional water only company,,https://www.affinitywater.co.uk/,71.1%
+E14000734,Harwich and North Essex,ANH,Anglian Water,regional water and sewerage company,,https://www.anglianwater.co.uk/,28.9%
+E14000735,Hastings and Rye,SRN,Southern Water,regional water and sewerage company,,https://www.southernwater.co.uk/,99.2%
+E14000735,Hastings and Rye,SEW,South East Water,regional water only company,,https://www.southeastwater.co.uk/,0.8%
+E14000736,Havant,PRT,Portsmouth Water,regional water only company,,https://www.portsmouthwater.co.uk/,99.5%
+E14000736,Havant,SSE,Leep Networks (Water),small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.leeputilities.co.uk/water,0.5%
+E14000737,Hayes and Harlington,AFW,Affinity Water,regional water only company,,https://www.affinitywater.co.uk/,99.9%
+E14000737,Hayes and Harlington,IWN,Independent Water Networks,small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.iwnl.co.uk/,0.1%
+E14000737,Hayes and Harlington,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,0.0%
+E14000738,Hazel Grove,UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,100.0%
+E14000739,Hemel Hempstead,AFW,Affinity Water,regional water only company,,https://www.affinitywater.co.uk/,100.0%
+E14000739,Hemel Hempstead,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,0.0%
+E14000740,Hemsworth,YKY,Yorkshire Water,regional water and sewerage company,,https://www.yorkshirewater.com/,100.0%
+E14000741,Hendon,AFW,Affinity Water,regional water only company,,https://www.affinitywater.co.uk/,72.2%
+E14000741,Hendon,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,27.8%
+E14000742,Henley,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,100.0%
+E14000743,Hereford and South Herefordshire,WSH,Dŵr Cymru,regional water and sewerage company,,https://www.dwrcymru.com/en,100.0%
+E14000743,Hereford and South Herefordshire,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,0.0%
+E14000744,Hertford and Stortford,AFW,Affinity Water,regional water only company,,https://www.affinitywater.co.uk/,93.4%
+E14000744,Hertford and Stortford,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,5.0%
+E14000744,Hertford and Stortford,IWN,Independent Water Networks,small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.iwnl.co.uk/,1.6%
+E14000745,Hertsmere,AFW,Affinity Water,regional water only company,,https://www.affinitywater.co.uk/,100.0%
+E14000746,Hexham,NES,Northumbrian Water,regional water and sewerage company,,https://www.nwl.co.uk/,100.0%
+E14000746,Hexham,UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,0.0%
+E14000747,Heywood and Middleton,UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,100.0%
+E14000748,High Peak,UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,52.1%
+E14000748,High Peak,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,47.9%
+E14000749,Hitchin and Harpenden,AFW,Affinity Water,regional water only company,,https://www.affinitywater.co.uk/,100.0%
+E14000750,Holborn and St Pancras,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,97.5%
+E14000750,Holborn and St Pancras,IWN,Independent Water Networks,small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.iwnl.co.uk/,2.5%
+E14000750,Holborn and St Pancras,AFW,Affinity Water,regional water only company,,https://www.affinitywater.co.uk/,0.0%
+E14000751,Hornchurch and Upminster,NES,Essex & Suffolk Water (part of Northumbrian Water),regional water and sewerage company,,https://www.nwl.co.uk/,100.0%
+E14000752,Hornsey and Wood Green,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,99.8%
+E14000752,Hornsey and Wood Green,AFW,Affinity Water,regional water only company,,https://www.affinitywater.co.uk/,0.2%
+E14000753,Horsham,SRN,Southern Water,regional water and sewerage company,,https://www.southernwater.co.uk/,82.1%
+E14000753,Horsham,SEW,South East Water,regional water only company,,https://www.southeastwater.co.uk/,16.1%
+E14000753,Horsham,SSE,Leep Networks (Water),small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.leeputilities.co.uk/water,1.0%
+E14000753,Horsham,SES,SES Water,regional water only company,,https://seswater.co.uk/,0.5%
+E14000753,Horsham,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,0.2%
+E14000754,Houghton and Sunderland South,NES,Northumbrian Water,regional water and sewerage company,,https://www.nwl.co.uk/,100.0%
+E14000755,Hove,SRN,Southern Water,regional water and sewerage company,,https://www.southernwater.co.uk/,100.0%
+E14000756,Huddersfield,YKY,Yorkshire Water,regional water and sewerage company,,https://www.yorkshirewater.com/,100.0%
+E14000757,Huntingdon,ANH,Anglian Water,regional water and sewerage company,,https://www.anglianwater.co.uk/,81.0%
+E14000757,Huntingdon,SSC,Cambridge Water (part of South Staffs Water),regional water only company,,https://www.south-staffs-water.co.uk/,19.0%
+E14000758,Hyndburn,UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,100.0%
+E14000759,Ilford North,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,80.5%
+E14000759,Ilford North,NES,Essex & Suffolk Water (part of Northumbrian Water),regional water and sewerage company,,https://www.nwl.co.uk/,18.7%
+E14000759,Ilford North,ALB,Albion Water,small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.albionwater.co.uk,0.9%
+E14000760,Ilford South,NES,Essex & Suffolk Water (part of Northumbrian Water),regional water and sewerage company,,https://www.nwl.co.uk/,86.2%
+E14000760,Ilford South,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,13.8%
+E14000761,Ipswich,ANH,Anglian Water,regional water and sewerage company,,https://www.anglianwater.co.uk/,100.0%
+E14000762,Isle of Wight,SRN,Southern Water,regional water and sewerage company,,https://www.southernwater.co.uk/,99.9%
+E14000762,Isle of Wight,ICO,Icosa Water Services,small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.icosawater.co.uk/,0.1%
+E14000763,Islington North,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,100.0%
+E14000764,Islington South and Finsbury,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,100.0%
+E14000765,Jarrow,NES,Northumbrian Water,regional water and sewerage company,,https://www.nwl.co.uk/,100.0%
+E14000766,Keighley,YKY,Yorkshire Water,regional water and sewerage company,,https://www.yorkshirewater.com/,100.0%
+E14000767,Kenilworth and Southam,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,100.0%
+E14000767,Kenilworth and Southam,ANH,Anglian Water,regional water and sewerage company,,https://www.anglianwater.co.uk/,0.0%
+E14000768,Kensington,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,100.0%
+E14000769,Kettering,ANH,Anglian Water,regional water and sewerage company,,https://www.anglianwater.co.uk/,100.0%
+E14000770,Kingston and Surbiton,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,100.0%
+E14000770,Kingston and Surbiton,SES,SES Water,regional water only company,,https://seswater.co.uk/,0.0%
+E14000771,Kingston upon Hull East,YKY,Yorkshire Water,regional water and sewerage company,,https://www.yorkshirewater.com/,100.0%
+E14000772,Kingston upon Hull North,YKY,Yorkshire Water,regional water and sewerage company,,https://www.yorkshirewater.com/,100.0%
+E14000772,Kingston upon Hull North,IWN,Independent Water Networks,small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.iwnl.co.uk/,0.0%
+E14000773,Kingston upon Hull West and Hessle,YKY,Yorkshire Water,regional water and sewerage company,,https://www.yorkshirewater.com/,100.0%
+E14000774,Kingswood,BRL,Bristol Water,regional water only company,,https://www.bristolwater.co.uk/,98.0%
+E14000774,Kingswood,SSE,Leep Networks (Water),small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.leeputilities.co.uk/water,2.0%
+E14000774,Kingswood,WSX,Wessex Water,regional water and sewerage company,,https://www.wessexwater.co.uk/,0.0%
+E14000775,Knowsley,UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,100.0%
+E14000776,Lancaster and Fleetwood,UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,100.0%
+E14000776,Lancaster and Fleetwood,YKY,Yorkshire Water,regional water and sewerage company,,https://www.yorkshirewater.com/,0.0%
+E14000777,Leeds Central,YKY,Yorkshire Water,regional water and sewerage company,,https://www.yorkshirewater.com/,100.0%
+E14000778,Leeds East,YKY,Yorkshire Water,regional water and sewerage company,,https://www.yorkshirewater.com/,100.0%
+E14000779,Leeds North East,YKY,Yorkshire Water,regional water and sewerage company,,https://www.yorkshirewater.com/,100.0%
+E14000780,Leeds North West,YKY,Yorkshire Water,regional water and sewerage company,,https://www.yorkshirewater.com/,99.9%
+E14000780,Leeds North West,IWN,Independent Water Networks,small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.iwnl.co.uk/,0.1%
+E14000781,Leeds West,YKY,Yorkshire Water,regional water and sewerage company,,https://www.yorkshirewater.com/,100.0%
+E14000782,Leicester East,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,100.0%
+E14000783,Leicester South,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,100.0%
+E14000784,Leicester West,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,100.0%
+E14000785,Leigh,UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,100.0%
+E14000786,Lewes,SEW,South East Water,regional water only company,,https://www.southeastwater.co.uk/,79.4%
+E14000786,Lewes,SRN,Southern Water,regional water and sewerage company,,https://www.southernwater.co.uk/,20.6%
+E14000787,Lewisham East,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,100.0%
+E14000788,Lewisham West and Penge,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,100.0%
+E14000789,"Lewisham, Deptford",TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,99.1%
+E14000789,"Lewisham, Deptford",SSE,Leep Networks (Water),small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.leeputilities.co.uk/water,0.9%
+E14000790,Leyton and Wanstead,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,100.0%
+E14000791,Lichfield,SSC,South Staffordshire Water,regional water only company,,https://www.south-staffs-water.co.uk/,100.0%
+E14000792,Lincoln,ANH,Anglian Water,regional water and sewerage company,,https://www.anglianwater.co.uk/,100.0%
+E14000793,"Liverpool, Riverside",UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,100.0%
+E14000794,"Liverpool, Walton",UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,100.0%
+E14000795,"Liverpool, Wavertree",UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,100.0%
+E14000796,"Liverpool, West Derby",UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,100.0%
+E14000797,Loughborough,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,100.0%
+E14000798,Louth and Horncastle,ANH,Anglian Water,regional water and sewerage company,,https://www.anglianwater.co.uk/,100.0%
+E14000799,Ludlow,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,100.0%
+E14000799,Ludlow,WSH,Dŵr Cymru,regional water and sewerage company,,https://www.dwrcymru.com/en,0.0%
+E14000799,Ludlow,SSC,South Staffordshire Water,regional water only company,,https://www.south-staffs-water.co.uk/,0.0%
+E14000800,Luton North,AFW,Affinity Water,regional water only company,,https://www.affinitywater.co.uk/,100.0%
+E14000800,Luton North,ANH,Anglian Water,regional water and sewerage company,,https://www.anglianwater.co.uk/,0.0%
+E14000801,Luton South,AFW,Affinity Water,regional water only company,,https://www.affinitywater.co.uk/,100.0%
+E14000802,Macclesfield,UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,100.0%
+E14000802,Macclesfield,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,0.0%
+E14000803,Maidenhead,SEW,South East Water,regional water only company,,https://www.southeastwater.co.uk/,74.8%
+E14000803,Maidenhead,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,25.2%
+E14000803,Maidenhead,AFW,Affinity Water,regional water only company,,https://www.affinitywater.co.uk/,0.0%
+E14000804,Maidstone and The Weald,SEW,South East Water,regional water only company,,https://www.southeastwater.co.uk/,99.2%
+E14000804,Maidstone and The Weald,ICO,Icosa Water Services,small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.icosawater.co.uk/,0.8%
+E14000805,Makerfield,UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,100.0%
+E14000806,Maldon,NES,Essex & Suffolk Water (part of Northumbrian Water),regional water and sewerage company,,https://www.nwl.co.uk/,99.3%
+E14000806,Maldon,IWN,Independent Water Networks,small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.iwnl.co.uk/,0.7%
+E14000806,Maldon,ANH,Anglian Water,regional water and sewerage company,,https://www.anglianwater.co.uk/,0.0%
+E14000807,Manchester Central,UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,100.0%
+E14000808,"Manchester, Gorton",UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,100.0%
+E14000809,"Manchester, Withington",UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,100.0%
+E14000810,Mansfield,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,100.0%
+E14000811,Meon Valley,PRT,Portsmouth Water,regional water only company,,https://www.portsmouthwater.co.uk/,85.9%
+E14000811,Meon Valley,SRN,Southern Water,regional water and sewerage company,,https://www.southernwater.co.uk/,11.9%
+E14000811,Meon Valley,SSE,Leep Networks (Water),small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.leeputilities.co.uk/water,1.8%
+E14000811,Meon Valley,IWN,Independent Water Networks,small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.iwnl.co.uk/,0.3%
+E14000811,Meon Valley,SEW,South East Water,regional water only company,,https://www.southeastwater.co.uk/,0.0%
+E14000812,Meriden,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,99.6%
+E14000812,Meriden,IWN,Independent Water Networks,small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.iwnl.co.uk/,0.4%
+E14000813,Mid Bedfordshire,ANH,Anglian Water,regional water and sewerage company,,https://www.anglianwater.co.uk/,98.9%
+E14000813,Mid Bedfordshire,AFW,Affinity Water,regional water only company,,https://www.affinitywater.co.uk/,1.1%
+E14000814,Mid Derbyshire,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,100.0%
+E14000815,Mid Dorset and North Poole,WSX,Wessex Water,regional water and sewerage company,,https://www.wessexwater.co.uk/,68.4%
+E14000815,Mid Dorset and North Poole,SWB,Bournemouth Water (part of South West Water),regional water and sewerage company,,https://www.southwestwater.co.uk/,31.6%
+E14000816,Mid Norfolk,ANH,Anglian Water,regional water and sewerage company,,https://www.anglianwater.co.uk/,99.4%
+E14000816,Mid Norfolk,SSE,Leep Networks (Water),small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.leeputilities.co.uk/water,0.6%
+E14000817,Mid Sussex,SEW,South East Water,regional water only company,,https://www.southeastwater.co.uk/,99.2%
+E14000817,Mid Sussex,SES,SES Water,regional water only company,,https://seswater.co.uk/,0.8%
+E14000817,Mid Sussex,SRN,Southern Water,regional water and sewerage company,,https://www.southernwater.co.uk/,0.0%
+E14000817,Mid Sussex,IWN,Independent Water Networks,small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.iwnl.co.uk/,0.0%
+E14000818,Mid Worcestershire,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,100.0%
+E14000819,Middlesbrough,NES,Northumbrian Water,regional water and sewerage company,,https://www.nwl.co.uk/,100.0%
+E14000820,Middlesbrough South and East Cleveland,NES,Northumbrian Water,regional water and sewerage company,,https://www.nwl.co.uk/,99.9%
+E14000820,Middlesbrough South and East Cleveland,YKY,Yorkshire Water,regional water and sewerage company,,https://www.yorkshirewater.com/,0.1%
+E14000821,Milton Keynes North,ANH,Anglian Water,regional water and sewerage company,,https://www.anglianwater.co.uk/,100.0%
+E14000822,Milton Keynes South,ANH,Anglian Water,regional water and sewerage company,,https://www.anglianwater.co.uk/,100.0%
+E14000823,Mitcham and Morden,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,76.2%
+E14000823,Mitcham and Morden,SES,SES Water,regional water only company,,https://seswater.co.uk/,23.8%
+E14000824,Mole Valley,SES,SES Water,regional water only company,,https://seswater.co.uk/,75.1%
+E14000824,Mole Valley,AFW,Affinity Water,regional water only company,,https://www.affinitywater.co.uk/,16.5%
+E14000824,Mole Valley,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,8.3%
+E14000825,Morecambe and Lunesdale,UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,100.0%
+E14000825,Morecambe and Lunesdale,YKY,Yorkshire Water,regional water and sewerage company,,https://www.yorkshirewater.com/,0.0%
+E14000826,Morley and Outwood,YKY,Yorkshire Water,regional water and sewerage company,,https://www.yorkshirewater.com/,99.9%
+E14000826,Morley and Outwood,IWN,Independent Water Networks,small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.iwnl.co.uk/,0.1%
+E14000827,New Forest East,SRN,Southern Water,regional water and sewerage company,,https://www.southernwater.co.uk/,88.3%
+E14000827,New Forest East,SWB,Bournemouth Water (part of South West Water),regional water and sewerage company,,https://www.southwestwater.co.uk/,11.7%
+E14000828,New Forest West,SWB,Bournemouth Water (part of South West Water),regional water and sewerage company,,https://www.southwestwater.co.uk/,100.0%
+E14000829,Newark,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,88.6%
+E14000829,Newark,ANH,Anglian Water,regional water and sewerage company,,https://www.anglianwater.co.uk/,11.4%
+E14000830,Newbury,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,100.0%
+E14000830,Newbury,SRN,Southern Water,regional water and sewerage company,,https://www.southernwater.co.uk/,0.0%
+E14000831,Newcastle upon Tyne Central,NES,Northumbrian Water,regional water and sewerage company,,https://www.nwl.co.uk/,100.0%
+E14000832,Newcastle upon Tyne East,NES,Northumbrian Water,regional water and sewerage company,,https://www.nwl.co.uk/,100.0%
+E14000833,Newcastle upon Tyne North,NES,Northumbrian Water,regional water and sewerage company,,https://www.nwl.co.uk/,99.8%
+E14000833,Newcastle upon Tyne North,IWN,Independent Water Networks,small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.iwnl.co.uk/,0.2%
+E14000834,Newcastle-under-Lyme,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,99.9%
+E14000834,Newcastle-under-Lyme,UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,0.1%
+E14000835,Newton Abbot,SWB,South West Water,regional water and sewerage company,,https://www.southwestwater.co.uk/,100.0%
+E14000836,"Normanton, Pontefract and Castleford",YKY,Yorkshire Water,regional water and sewerage company,,https://www.yorkshirewater.com/,100.0%
+E14000836,"Normanton, Pontefract and Castleford",IWN,Independent Water Networks,small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.iwnl.co.uk/,0.0%
+E14000837,North Cornwall,SWB,South West Water,regional water and sewerage company,,https://www.southwestwater.co.uk/,100.0%
+E14000838,North Devon,SWB,South West Water,regional water and sewerage company,,https://www.southwestwater.co.uk/,100.0%
+E14000839,North Dorset,WSX,Wessex Water,regional water and sewerage company,,https://www.wessexwater.co.uk/,75.6%
+E14000839,North Dorset,SWB,Bournemouth Water (part of South West Water),regional water and sewerage company,,https://www.southwestwater.co.uk/,24.4%
+E14000839,North Dorset,SWB,Bournemouth Water (part of South West Water),regional water and sewerage company,,https://www.southwestwater.co.uk/,0.0%
+E14000840,North Durham,NES,Northumbrian Water,regional water and sewerage company,,https://www.nwl.co.uk/,100.0%
+E14000840,North Durham,IWN,Independent Water Networks,small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.iwnl.co.uk/,0.0%
+E14000841,North East Bedfordshire,ANH,Anglian Water,regional water and sewerage company,,https://www.anglianwater.co.uk/,98.0%
+E14000841,North East Bedfordshire,AFW,Affinity Water,regional water only company,,https://www.affinitywater.co.uk/,2.0%
+E14000841,North East Bedfordshire,SSC,Cambridge Water (part of South Staffs Water),regional water only company,,https://www.south-staffs-water.co.uk/,0.0%
+E14000841,North East Bedfordshire,IWN,Independent Water Networks,small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.iwnl.co.uk/,0.0%
+E14000842,North East Cambridgeshire,ANH,Anglian Water,regional water and sewerage company,,https://www.anglianwater.co.uk/,100.0%
+E14000842,North East Cambridgeshire,SSC,Cambridge Water (part of South Staffs Water),regional water only company,,https://www.south-staffs-water.co.uk/,0.0%
+E14000843,North East Derbyshire,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,99.9%
+E14000843,North East Derbyshire,YKY,Yorkshire Water,regional water and sewerage company,,https://www.yorkshirewater.com/,0.1%
+E14000844,North East Hampshire,SEW,South East Water,regional water only company,,https://www.southeastwater.co.uk/,96.3%
+E14000844,North East Hampshire,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,3.3%
+E14000844,North East Hampshire,SRN,Southern Water,regional water and sewerage company,,https://www.southernwater.co.uk/,0.3%
+E14000844,North East Hampshire,IWN,Independent Water Networks,small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.iwnl.co.uk/,0.0%
+E14000845,North East Hertfordshire,AFW,Affinity Water,regional water only company,,https://www.affinitywater.co.uk/,100.0%
+E14000845,North East Hertfordshire,ANH,Anglian Water,regional water and sewerage company,,https://www.anglianwater.co.uk/,0.0%
+E14000846,North East Somerset,BRL,Bristol Water,regional water only company,,https://www.bristolwater.co.uk/,89.8%
+E14000846,North East Somerset,WSX,Wessex Water,regional water and sewerage company,,https://www.wessexwater.co.uk/,10.2%
+E14000847,North Herefordshire,WSH,Dŵr Cymru,regional water and sewerage company,,https://www.dwrcymru.com/en,96.8%
+E14000847,North Herefordshire,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,3.2%
+E14000848,North Norfolk,ANH,Anglian Water,regional water and sewerage company,,https://www.anglianwater.co.uk/,100.0%
+E14000849,North Shropshire,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,100.0%
+E14000849,North Shropshire,UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,0.0%
+E14000850,North Somerset,BRL,Bristol Water,regional water only company,,https://www.bristolwater.co.uk/,100.0%
+E14000851,North Swindon,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,100.0%
+E14000852,North Thanet,SRN,Southern Water,regional water and sewerage company,,https://www.southernwater.co.uk/,58.3%
+E14000852,North Thanet,SEW,South East Water,regional water only company,,https://www.southeastwater.co.uk/,41.7%
+E14000853,North Tyneside,NES,Northumbrian Water,regional water and sewerage company,,https://www.nwl.co.uk/,100.0%
+E14000854,North Warwickshire,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,96.2%
+E14000854,North Warwickshire,SSC,South Staffordshire Water,regional water only company,,https://www.south-staffs-water.co.uk/,3.8%
+E14000855,North West Cambridgeshire,ANH,Anglian Water,regional water and sewerage company,,https://www.anglianwater.co.uk/,78.7%
+E14000855,North West Cambridgeshire,SSC,Cambridge Water (part of South Staffs Water),regional water only company,,https://www.south-staffs-water.co.uk/,21.3%
+E14000856,North West Durham,NES,Northumbrian Water,regional water and sewerage company,,https://www.nwl.co.uk/,100.0%
+E14000857,North West Hampshire,SRN,Southern Water,regional water and sewerage company,,https://www.southernwater.co.uk/,82.4%
+E14000857,North West Hampshire,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,9.4%
+E14000857,North West Hampshire,SEW,South East Water,regional water only company,,https://www.southeastwater.co.uk/,6.9%
+E14000857,North West Hampshire,WSX,Wessex Water,regional water and sewerage company,,https://www.wessexwater.co.uk/,1.3%
+E14000858,North West Leicestershire,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,99.8%
+E14000858,North West Leicestershire,SSC,South Staffordshire Water,regional water only company,,https://www.south-staffs-water.co.uk/,0.2%
+E14000859,North West Norfolk,ANH,Anglian Water,regional water and sewerage company,,https://www.anglianwater.co.uk/,100.0%
+E14000860,North Wiltshire,WSX,Wessex Water,regional water and sewerage company,,https://www.wessexwater.co.uk/,61.4%
+E14000860,North Wiltshire,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,35.2%
+E14000860,North Wiltshire,BRL,Bristol Water,regional water only company,,https://www.bristolwater.co.uk/,3.3%
+E14000861,Northampton North,ANH,Anglian Water,regional water and sewerage company,,https://www.anglianwater.co.uk/,100.0%
+E14000862,Northampton South,ANH,Anglian Water,regional water and sewerage company,,https://www.anglianwater.co.uk/,99.7%
+E14000862,Northampton South,IWN,Independent Water Networks,small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.iwnl.co.uk/,0.3%
+E14000863,Norwich North,ANH,Anglian Water,regional water and sewerage company,,https://www.anglianwater.co.uk/,100.0%
+E14000864,Norwich South,ANH,Anglian Water,regional water and sewerage company,,https://www.anglianwater.co.uk/,100.0%
+E14000865,Nottingham East,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,100.0%
+E14000866,Nottingham North,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,100.0%
+E14000867,Nottingham South,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,100.0%
+E14000868,Nuneaton,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,100.0%
+E14000869,Old Bexley and Sidcup,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,100.0%
+E14000870,Oldham East and Saddleworth,UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,100.0%
+E14000871,Oldham West and Royton,UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,100.0%
+E14000872,Orpington,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,100.0%
+E14000873,Oxford East,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,100.0%
+E14000874,Oxford West and Abingdon,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,100.0%
+E14000875,Pendle,UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,80.4%
+E14000875,Pendle,YKY,Yorkshire Water,regional water and sewerage company,,https://www.yorkshirewater.com/,19.6%
+E14000876,Penistone and Stocksbridge,YKY,Yorkshire Water,regional water and sewerage company,,https://www.yorkshirewater.com/,100.0%
+E14000877,Penrith and The Border,UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,99.8%
+E14000877,Penrith and The Border,NES,Northumbrian Water,regional water and sewerage company,,https://www.nwl.co.uk/,0.2%
+E14000878,Peterborough,ANH,Anglian Water,regional water and sewerage company,,https://www.anglianwater.co.uk/,100.0%
+E14000879,"Plymouth, Moor View",SWB,South West Water,regional water and sewerage company,,https://www.southwestwater.co.uk/,100.0%
+E14000880,"Plymouth, Sutton and Devonport",SWB,South West Water,regional water and sewerage company,,https://www.southwestwater.co.uk/,100.0%
+E14000881,Poole,WSX,Wessex Water,regional water and sewerage company,,https://www.wessexwater.co.uk/,89.6%
+E14000881,Poole,SWB,Bournemouth Water (part of South West Water),regional water and sewerage company,,https://www.southwestwater.co.uk/,10.4%
+E14000882,Poplar and Limehouse,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,99.0%
+E14000882,Poplar and Limehouse,SSE,Leep Networks (Water),small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.leeputilities.co.uk/water,1.0%
+E14000883,Portsmouth North,PRT,Portsmouth Water,regional water only company,,https://www.portsmouthwater.co.uk/,100.0%
+E14000884,Portsmouth South,PRT,Portsmouth Water,regional water only company,,https://www.portsmouthwater.co.uk/,100.0%
+E14000885,Preston,UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,100.0%
+E14000886,Pudsey,YKY,Yorkshire Water,regional water and sewerage company,,https://www.yorkshirewater.com/,100.0%
+E14000887,Putney,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,100.0%
+E14000888,Rayleigh and Wickford,NES,Essex & Suffolk Water (part of Northumbrian Water),regional water and sewerage company,,https://www.nwl.co.uk/,99.7%
+E14000888,Rayleigh and Wickford,IWN,Independent Water Networks,small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.iwnl.co.uk/,0.3%
+E14000889,Reading East,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,100.0%
+E14000890,Reading West,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,98.1%
+E14000890,Reading West,SSE,Leep Networks (Water),small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.leeputilities.co.uk/water,1.9%
+E14000891,Redcar,NES,Northumbrian Water,regional water and sewerage company,,https://www.nwl.co.uk/,100.0%
+E14000892,Redditch,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,100.0%
+E14000893,Reigate,SES,SES Water,regional water only company,,https://seswater.co.uk/,100.0%
+E14000894,Ribble Valley,UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,99.9%
+E14000894,Ribble Valley,YKY,Yorkshire Water,regional water and sewerage company,,https://www.yorkshirewater.com/,0.1%
+E14000895,Richmond (Yorks),YKY,Yorkshire Water,regional water and sewerage company,,https://www.yorkshirewater.com/,82.0%
+E14000895,Richmond (Yorks),NES,Northumbrian Water,regional water and sewerage company,,https://www.nwl.co.uk/,18.0%
+E14000896,Richmond Park,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,100.0%
+E14000897,Rochdale,UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,100.0%
+E14000897,Rochdale,YKY,Yorkshire Water,regional water and sewerage company,,https://www.yorkshirewater.com/,0.0%
+E14000898,Rochester and Strood,SRN,Southern Water,regional water and sewerage company,,https://www.southernwater.co.uk/,96.2%
+E14000898,Rochester and Strood,SEW,South East Water,regional water only company,,https://www.southeastwater.co.uk/,3.0%
+E14000898,Rochester and Strood,ICO,Icosa Water Services,small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.icosawater.co.uk/,0.4%
+E14000898,Rochester and Strood,LEP,Leep Networks (Water),small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.leeputilities.co.uk/water,0.4%
+E14000899,Rochford and Southend East,NES,Essex & Suffolk Water (part of Northumbrian Water),regional water and sewerage company,,https://www.nwl.co.uk/,100.0%
+E14000900,Romford,NES,Essex & Suffolk Water (part of Northumbrian Water),regional water and sewerage company,,https://www.nwl.co.uk/,100.0%
+E14000901,Romsey and Southampton North,SRN,Southern Water,regional water and sewerage company,,https://www.southernwater.co.uk/,96.8%
+E14000901,Romsey and Southampton North,SWB,Bournemouth Water (part of South West Water),regional water and sewerage company,,https://www.southwestwater.co.uk/,3.1%
+E14000901,Romsey and Southampton North,WSX,Wessex Water,regional water and sewerage company,,https://www.wessexwater.co.uk/,0.2%
+E14000902,Rossendale and Darwen,UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,100.0%
+E14000902,Rossendale and Darwen,YKY,Yorkshire Water,regional water and sewerage company,,https://www.yorkshirewater.com/,0.0%
+E14000903,Rother Valley,YKY,Yorkshire Water,regional water and sewerage company,,https://www.yorkshirewater.com/,99.9%
+E14000903,Rother Valley,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,0.1%
+E14000904,Rotherham,YKY,Yorkshire Water,regional water and sewerage company,,https://www.yorkshirewater.com/,100.0%
+E14000905,Rugby,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,100.0%
+E14000906,"Ruislip, Northwood and Pinner",AFW,Affinity Water,regional water only company,,https://www.affinitywater.co.uk/,100.0%
+E14000907,Runnymede and Weybridge,AFW,Affinity Water,regional water only company,,https://www.affinitywater.co.uk/,100.0%
+E14000908,Rushcliffe,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,100.0%
+E14000909,Rutland and Melton,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,92.1%
+E14000909,Rutland and Melton,ANH,Anglian Water,regional water and sewerage company,,https://www.anglianwater.co.uk/,6.1%
+E14000909,Rutland and Melton,IWN,Independent Water Networks,small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.iwnl.co.uk/,1.9%
+E14000910,Saffron Walden,AFW,Affinity Water,regional water only company,,https://www.affinitywater.co.uk/,77.0%
+E14000910,Saffron Walden,NES,Essex & Suffolk Water (part of Northumbrian Water),regional water and sewerage company,,https://www.nwl.co.uk/,23.0%
+E14000910,Saffron Walden,ANH,Anglian Water,regional water and sewerage company,,https://www.anglianwater.co.uk/,0.0%
+E14000910,Saffron Walden,SSC,Cambridge Water (part of South Staffs Water),regional water only company,,https://www.south-staffs-water.co.uk/,0.0%
+E14000911,Salford and Eccles,UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,98.6%
+E14000911,Salford and Eccles,PWN,Leep Networks (Water),small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.leeputilities.co.uk/water,1.4%
+E14000912,Salisbury,WSX,Wessex Water,regional water and sewerage company,,https://www.wessexwater.co.uk/,90.8%
+E14000912,Salisbury,SWB,Bournemouth Water (part of South West Water),regional water and sewerage company,,https://www.southwestwater.co.uk/,7.4%
+E14000912,Salisbury,SSE,Leep Networks (Water),small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.leeputilities.co.uk/water,1.6%
+E14000912,Salisbury,SRN,Southern Water,regional water and sewerage company,,https://www.southernwater.co.uk/,0.2%
+E14000913,Scarborough and Whitby,YKY,Yorkshire Water,regional water and sewerage company,,https://www.yorkshirewater.com/,100.0%
+E14000913,Scarborough and Whitby,IWN,Independent Water Networks,small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.iwnl.co.uk/,0.0%
+E14000914,Scunthorpe,ANH,Anglian Water,regional water and sewerage company,,https://www.anglianwater.co.uk/,100.0%
+E14000915,Sedgefield,NES,Northumbrian Water,regional water and sewerage company,,https://www.nwl.co.uk/,100.0%
+E14000916,Sefton Central,UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,100.0%
+E14000917,Selby and Ainsty,YKY,Yorkshire Water,regional water and sewerage company,,https://www.yorkshirewater.com/,99.8%
+E14000917,Selby and Ainsty,IWN,Independent Water Networks,small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.iwnl.co.uk/,0.2%
+E14000918,Sevenoaks,SEW,South East Water,regional water only company,,https://www.southeastwater.co.uk/,55.2%
+E14000918,Sevenoaks,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,43.9%
+E14000918,Sevenoaks,SES,SES Water,regional water only company,,https://seswater.co.uk/,0.9%
+E14000919,Sheffield Central,YKY,Yorkshire Water,regional water and sewerage company,,https://www.yorkshirewater.com/,100.0%
+E14000920,Sheffield South East,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,52.0%
+E14000920,Sheffield South East,YKY,Yorkshire Water,regional water and sewerage company,,https://www.yorkshirewater.com/,48.0%
+E14000921,"Sheffield, Brightside and Hillsborough",YKY,Yorkshire Water,regional water and sewerage company,,https://www.yorkshirewater.com/,100.0%
+E14000922,"Sheffield, Hallam",YKY,Yorkshire Water,regional water and sewerage company,,https://www.yorkshirewater.com/,100.0%
+E14000922,"Sheffield, Hallam",SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,0.0%
+E14000923,"Sheffield, Heeley",YKY,Yorkshire Water,regional water and sewerage company,,https://www.yorkshirewater.com/,99.1%
+E14000923,"Sheffield, Heeley",SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,0.9%
+E14000924,Sherwood,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,100.0%
+E14000925,Shipley,YKY,Yorkshire Water,regional water and sewerage company,,https://www.yorkshirewater.com/,100.0%
+E14000926,Shrewsbury and Atcham,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,100.0%
+E14000927,Sittingbourne and Sheppey,SRN,Southern Water,regional water and sewerage company,,https://www.southernwater.co.uk/,90.5%
+E14000927,Sittingbourne and Sheppey,SEW,South East Water,regional water only company,,https://www.southeastwater.co.uk/,9.5%
+E14000928,Skipton and Ripon,YKY,Yorkshire Water,regional water and sewerage company,,https://www.yorkshirewater.com/,100.0%
+E14000928,Skipton and Ripon,UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,0.0%
+E14000929,Sleaford and North Hykeham,ANH,Anglian Water,regional water and sewerage company,,https://www.anglianwater.co.uk/,100.0%
+E14000930,Slough,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,99.9%
+E14000930,Slough,AFW,Affinity Water,regional water only company,,https://www.affinitywater.co.uk/,0.1%
+E14000931,Solihull,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,100.0%
+E14000932,Somerton and Frome,WSX,Wessex Water,regional water and sewerage company,,https://www.wessexwater.co.uk/,54.1%
+E14000932,Somerton and Frome,BRL,Bristol Water,regional water only company,,https://www.bristolwater.co.uk/,45.9%
+E14000933,South Basildon and East Thurrock,NES,Essex & Suffolk Water (part of Northumbrian Water),regional water and sewerage company,,https://www.nwl.co.uk/,100.0%
+E14000934,South Cambridgeshire,SSC,Cambridge Water (part of South Staffs Water),regional water only company,,https://www.south-staffs-water.co.uk/,98.4%
+E14000934,South Cambridgeshire,ANH,Anglian Water,regional water and sewerage company,,https://www.anglianwater.co.uk/,1.6%
+E14000934,South Cambridgeshire,AFW,Affinity Water,regional water only company,,https://www.affinitywater.co.uk/,0.0%
+E14000935,South Derbyshire,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,68.5%
+E14000935,South Derbyshire,SSC,South Staffordshire Water,regional water only company,,https://www.south-staffs-water.co.uk/,31.5%
+E14000936,South Dorset,WSX,Wessex Water,regional water and sewerage company,,https://www.wessexwater.co.uk/,100.0%
+E14000937,South East Cambridgeshire,ANH,Anglian Water,regional water and sewerage company,,https://www.anglianwater.co.uk/,57.9%
+E14000937,South East Cambridgeshire,SSC,Cambridge Water (part of South Staffs Water),regional water only company,,https://www.south-staffs-water.co.uk/,42.0%
+E14000937,South East Cambridgeshire,IWN,Independent Water Networks,small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.iwnl.co.uk/,0.1%
+E14000937,South East Cambridgeshire,AFW,Affinity Water,regional water only company,,https://www.affinitywater.co.uk/,0.0%
+E14000938,South East Cornwall,SWB,South West Water,regional water and sewerage company,,https://www.southwestwater.co.uk/,100.0%
+E14000939,South Holland and The Deepings,ANH,Anglian Water,regional water and sewerage company,,https://www.anglianwater.co.uk/,100.0%
+E14000940,South Leicestershire,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,100.0%
+E14000941,South Norfolk,ANH,Anglian Water,regional water and sewerage company,,https://www.anglianwater.co.uk/,100.0%
+E14000941,South Norfolk,NES,Essex & Suffolk Water (part of Northumbrian Water),regional water and sewerage company,,https://www.nwl.co.uk/,0.0%
+E14000941,South Norfolk,IWN,Independent Water Networks,small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.iwnl.co.uk/,0.0%
+E14000942,South Northamptonshire,ANH,Anglian Water,regional water and sewerage company,,https://www.anglianwater.co.uk/,99.4%
+E14000942,South Northamptonshire,IWN,Independent Water Networks,small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.iwnl.co.uk/,0.6%
+E14000942,South Northamptonshire,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,0.0%
+E14000942,South Northamptonshire,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,0.0%
+E14000943,South Ribble,UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,100.0%
+E14000944,South Shields,NES,Northumbrian Water,regional water and sewerage company,,https://www.nwl.co.uk/,100.0%
+E14000945,South Staffordshire,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,63.2%
+E14000945,South Staffordshire,SSC,South Staffordshire Water,regional water only company,,https://www.south-staffs-water.co.uk/,36.8%
+E14000946,South Suffolk,ANH,Anglian Water,regional water and sewerage company,,https://www.anglianwater.co.uk/,100.0%
+E14000946,South Suffolk,IWN,Independent Water Networks,small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.iwnl.co.uk/,0.0%
+E14000947,South Swindon,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,100.0%
+E14000948,South Thanet,SRN,Southern Water,regional water and sewerage company,,https://www.southernwater.co.uk/,100.0%
+E14000949,South West Bedfordshire,AFW,Affinity Water,regional water only company,,https://www.affinitywater.co.uk/,55.9%
+E14000949,South West Bedfordshire,ANH,Anglian Water,regional water and sewerage company,,https://www.anglianwater.co.uk/,40.3%
+E14000949,South West Bedfordshire,IWN,Independent Water Networks,small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.iwnl.co.uk/,3.8%
+E14000950,South West Devon,SWB,South West Water,regional water and sewerage company,,https://www.southwestwater.co.uk/,100.0%
+E14000951,South West Hertfordshire,AFW,Affinity Water,regional water only company,,https://www.affinitywater.co.uk/,84.6%
+E14000951,South West Hertfordshire,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,15.4%
+E14000952,South West Norfolk,ANH,Anglian Water,regional water and sewerage company,,https://www.anglianwater.co.uk/,99.4%
+E14000952,South West Norfolk,ICO,Icosa Water Services,small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.icosawater.co.uk/,0.6%
+E14000953,South West Surrey,SEW,South East Water,regional water only company,,https://www.southeastwater.co.uk/,52.9%
+E14000953,South West Surrey,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,47.1%
+E14000953,South West Surrey,SRN,Southern Water,regional water and sewerage company,,https://www.southernwater.co.uk/,0.0%
+E14000954,South West Wiltshire,WSX,Wessex Water,regional water and sewerage company,,https://www.wessexwater.co.uk/,100.0%
+E14000954,South West Wiltshire,BRL,Bristol Water,regional water only company,,https://www.bristolwater.co.uk/,0.0%
+E14000955,"Southampton, Itchen",SRN,Southern Water,regional water and sewerage company,,https://www.southernwater.co.uk/,100.0%
+E14000956,"Southampton, Test",SRN,Southern Water,regional water and sewerage company,,https://www.southernwater.co.uk/,100.0%
+E14000957,Southend West,NES,Northumbrian Water,regional water and sewerage company,,https://www.nwl.co.uk/,100.0%
+E14000958,Southport,UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,100.0%
+E14000959,Spelthorne,AFW,Affinity Water,regional water only company,,https://www.affinitywater.co.uk/,77.4%
+E14000959,Spelthorne,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,22.6%
+E14000960,St Albans,AFW,Affinity Water,regional water only company,,https://www.affinitywater.co.uk/,100.0%
+E14000961,St Austell and Newquay,SWB,South West Water,regional water and sewerage company,,https://www.southwestwater.co.uk/,100.0%
+E14000962,St Helens North,UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,100.0%
+E14000963,St Helens South and Whiston,UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,100.0%
+E14000964,St Ives,SWB,South West Water,regional water and sewerage company,,https://www.southwestwater.co.uk/,100.0%
+E14000965,Stafford,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,90.6%
+E14000965,Stafford,SSC,South Staffordshire Water,regional water only company,,https://www.south-staffs-water.co.uk/,9.4%
+E14000966,Staffordshire Moorlands,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,100.0%
+E14000966,Staffordshire Moorlands,SSC,South Staffordshire Water,regional water only company,,https://www.south-staffs-water.co.uk/,0.0%
+E14000966,Staffordshire Moorlands,UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,0.0%
+E14000967,Stalybridge and Hyde,UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,100.0%
+E14000968,Stevenage,AFW,Affinity Water,regional water only company,,https://www.affinitywater.co.uk/,100.0%
+E14000969,Stockport,UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,100.0%
+E14000970,Stockton North,NES,Northumbrian Water,regional water and sewerage company,,https://www.nwl.co.uk/,98.7%
+E14000970,Stockton North,ANH,Hartlepool Water (part of Anglian Water),regional water and sewerage company,,https://www.anglianwater.co.uk/,1.3%
+E14000971,Stockton South,NES,Northumbrian Water,regional water and sewerage company,,https://www.nwl.co.uk/,100.0%
+E14000972,Stoke-on-Trent Central,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,100.0%
+E14000973,Stoke-on-Trent North,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,99.8%
+E14000973,Stoke-on-Trent North,UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,0.2%
+E14000974,Stoke-on-Trent South,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,100.0%
+E14000975,Stone,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,100.0%
+E14000975,Stone,SSC,South Staffordshire Water,regional water only company,,https://www.south-staffs-water.co.uk/,0.0%
+E14000976,Stourbridge,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,69.7%
+E14000976,Stourbridge,SSC,South Staffordshire Water,regional water only company,,https://www.south-staffs-water.co.uk/,30.3%
+E14000977,Stratford-on-Avon,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,99.9%
+E14000977,Stratford-on-Avon,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,0.1%
+E14000978,Streatham,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,100.0%
+E14000979,Stretford and Urmston,UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,99.3%
+E14000979,Stretford and Urmston,LEP,Leep Networks (Water),small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.leeputilities.co.uk/water,0.7%
+E14000980,Stroud,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,100.0%
+E14000980,Stroud,BRL,Bristol Water,regional water only company,,https://www.bristolwater.co.uk/,0.0%
+E14000981,Suffolk Coastal,ANH,Anglian Water,regional water and sewerage company,,https://www.anglianwater.co.uk/,59.3%
+E14000981,Suffolk Coastal,NES,Essex & Suffolk Water (part of Northumbrian Water),regional water and sewerage company,,https://www.nwl.co.uk/,40.7%
+E14000982,Sunderland Central,NES,Northumbrian Water,regional water and sewerage company,,https://www.nwl.co.uk/,100.0%
+E14000983,Surrey Heath,SEW,South East Water,regional water only company,,https://www.southeastwater.co.uk/,72.4%
+E14000983,Surrey Heath,AFW,Affinity Water,regional water only company,,https://www.affinitywater.co.uk/,27.6%
+E14000984,Sutton and Cheam,SES,SES Water,regional water only company,,https://seswater.co.uk/,98.7%
+E14000984,Sutton and Cheam,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,1.3%
+E14000985,Sutton Coldfield,SSC,South Staffordshire Water,regional water only company,,https://www.south-staffs-water.co.uk/,89.8%
+E14000985,Sutton Coldfield,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,10.2%
+E14000986,Tamworth,SSC,South Staffordshire Water,regional water only company,,https://www.south-staffs-water.co.uk/,100.0%
+E14000986,Tamworth,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,0.0%
+E14000987,Tatton,UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,100.0%
+E14000988,Taunton Deane,WSX,Wessex Water,regional water and sewerage company,,https://www.wessexwater.co.uk/,99.9%
+E14000988,Taunton Deane,SWB,South West Water,regional water and sewerage company,,https://www.southwestwater.co.uk/,0.1%
+E14000989,Telford,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,100.0%
+E14000990,Tewkesbury,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,99.9%
+E14000990,Tewkesbury,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,0.1%
+E14000990,Tewkesbury,ICO,Icosa Water Services,small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.icosawater.co.uk/,0.0%
+E14000991,The Cotswolds,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,77.4%
+E14000991,The Cotswolds,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,12.5%
+E14000991,The Cotswolds,BRL,Bristol Water,regional water only company,,https://www.bristolwater.co.uk/,8.9%
+E14000991,The Cotswolds,ALB,Albion Water,small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.albionwater.co.uk,1.2%
+E14000992,The Wrekin,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,100.0%
+E14000993,Thirsk and Malton,YKY,Yorkshire Water,regional water and sewerage company,,https://www.yorkshirewater.com/,100.0%
+E14000993,Thirsk and Malton,NES,Northumbrian Water,regional water and sewerage company,,https://www.nwl.co.uk/,0.0%
+E14000994,Thornbury and Yate,BRL,Bristol Water,regional water only company,,https://www.bristolwater.co.uk/,97.2%
+E14000994,Thornbury and Yate,SSE,Leep Networks (Water),small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.leeputilities.co.uk/water,2.6%
+E14000994,Thornbury and Yate,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,0.1%
+E14000994,Thornbury and Yate,WSX,Wessex Water,regional water and sewerage company,,https://www.wessexwater.co.uk/,0.1%
+E14000995,Thurrock,NES,Essex & Suffolk Water (part of Northumbrian Water),regional water and sewerage company,,https://www.nwl.co.uk/,100.0%
+E14000996,Tiverton and Honiton,SWB,South West Water,regional water and sewerage company,,https://www.southwestwater.co.uk/,99.9%
+E14000996,Tiverton and Honiton,WSX,Wessex Water,regional water and sewerage company,,https://www.wessexwater.co.uk/,0.1%
+E14000997,Tonbridge and Malling,SEW,South East Water,regional water only company,,https://www.southeastwater.co.uk/,87.0%
+E14000997,Tonbridge and Malling,SES,SES Water,regional water only company,,https://seswater.co.uk/,13.0%
+E14000997,Tonbridge and Malling,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,0.0%
+E14000998,Tooting,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,100.0%
+E14000999,Torbay,SWB,South West Water,regional water and sewerage company,,https://www.southwestwater.co.uk/,100.0%
+E14001000,Torridge and West Devon,SWB,South West Water,regional water and sewerage company,,https://www.southwestwater.co.uk/,100.0%
+E14001001,Totnes,SWB,South West Water,regional water and sewerage company,,https://www.southwestwater.co.uk/,100.0%
+E14001002,Tottenham,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,97.4%
+E14001002,Tottenham,SSE,Leep Networks (Water),small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.leeputilities.co.uk/water,2.6%
+E14001003,Truro and Falmouth,SWB,South West Water,regional water and sewerage company,,https://www.southwestwater.co.uk/,100.0%
+E14001004,Tunbridge Wells,SEW,South East Water,regional water only company,,https://www.southeastwater.co.uk/,100.0%
+E14001005,Twickenham,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,100.0%
+E14001006,Tynemouth,NES,Northumbrian Water,regional water and sewerage company,,https://www.nwl.co.uk/,100.0%
+E14001007,Uxbridge and South Ruislip,AFW,Affinity Water,regional water only company,,https://www.affinitywater.co.uk/,100.0%
+E14001008,Vauxhall,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,100.0%
+E14001009,Wakefield,YKY,Yorkshire Water,regional water and sewerage company,,https://www.yorkshirewater.com/,100.0%
+E14001010,Wallasey,UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,100.0%
+E14001011,Walsall North,SSC,South Staffordshire Water,regional water only company,,https://www.south-staffs-water.co.uk/,56.5%
+E14001011,Walsall North,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,43.5%
+E14001012,Walsall South,SSC,South Staffordshire Water,regional water only company,,https://www.south-staffs-water.co.uk/,90.8%
+E14001012,Walsall South,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,9.2%
+E14001013,Walthamstow,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,100.0%
+E14001014,Wansbeck,NES,Northumbrian Water,regional water and sewerage company,,https://www.nwl.co.uk/,100.0%
+E14001015,Wantage,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,94.4%
+E14001015,Wantage,SSE,Leep Networks (Water),small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.leeputilities.co.uk/water,5.6%
+E14001016,Warley,SSC,South Staffordshire Water,regional water only company,,https://www.south-staffs-water.co.uk/,98.8%
+E14001016,Warley,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,1.2%
+E14001017,Warrington North,UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,100.0%
+E14001018,Warrington South,UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,100.0%
+E14001019,Warwick and Leamington,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,99.1%
+E14001019,Warwick and Leamington,IWN,Independent Water Networks,small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.iwnl.co.uk/,0.9%
+E14001020,Washington and Sunderland West,NES,Northumbrian Water,regional water and sewerage company,,https://www.nwl.co.uk/,100.0%
+E14001020,Washington and Sunderland West,IWN,Independent Water Networks,small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.iwnl.co.uk/,0.0%
+E14001021,Watford,AFW,Affinity Water,regional water only company,,https://www.affinitywater.co.uk/,100.0%
+E14001022,Waveney,NES,Essex & Suffolk Water (part of Northumbrian Water),regional water and sewerage company,,https://www.nwl.co.uk/,98.9%
+E14001022,Waveney,ANH,Anglian Water,regional water and sewerage company,,https://www.anglianwater.co.uk/,1.1%
+E14001023,Wealden,SEW,South East Water,regional water only company,,https://www.southeastwater.co.uk/,100.0%
+E14001023,Wealden,SES,SES Water,regional water only company,,https://seswater.co.uk/,0.0%
+E14001024,Weaver Vale,UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,100.0%
+E14001025,Wellingborough,ANH,Anglian Water,regional water and sewerage company,,https://www.anglianwater.co.uk/,100.0%
+E14001026,Wells,BRL,Bristol Water,regional water only company,,https://www.bristolwater.co.uk/,100.0%
+E14001026,Wells,WSX,Wessex Water,regional water and sewerage company,,https://www.wessexwater.co.uk/,0.0%
+E14001027,Welwyn Hatfield,AFW,Affinity Water,regional water only company,,https://www.affinitywater.co.uk/,100.0%
+E14001028,Wentworth and Dearne,YKY,Yorkshire Water,regional water and sewerage company,,https://www.yorkshirewater.com/,100.0%
+E14001029,West Bromwich East,SSC,South Staffordshire Water,regional water only company,,https://www.south-staffs-water.co.uk/,87.4%
+E14001029,West Bromwich East,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,12.6%
+E14001030,West Bromwich West,SSC,South Staffordshire Water,regional water only company,,https://www.south-staffs-water.co.uk/,99.6%
+E14001030,West Bromwich West,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,0.4%
+E14001031,West Dorset,WSX,Wessex Water,regional water and sewerage company,,https://www.wessexwater.co.uk/,94.1%
+E14001031,West Dorset,SWB,South West Water,regional water and sewerage company,,https://www.southwestwater.co.uk/,5.3%
+E14001031,West Dorset,SSE,Leep Networks (Water),small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.leeputilities.co.uk/water,0.6%
+E14001032,West Ham,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,100.0%
+E14001033,West Lancashire,UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,100.0%
+E14001034,West Suffolk,ANH,Anglian Water,regional water and sewerage company,,https://www.anglianwater.co.uk/,100.0%
+E14001035,West Worcestershire,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,100.0%
+E14001035,West Worcestershire,WSH,Dŵr Cymru,regional water and sewerage company,,https://www.dwrcymru.com/en,0.0%
+E14001036,Westminster North,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,100.0%
+E14001037,Westmorland and Lonsdale,UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,100.0%
+E14001038,Weston-Super-Mare,BRL,Bristol Water,regional water only company,,https://www.bristolwater.co.uk/,99.6%
+E14001038,Weston-Super-Mare,IWN,Independent Water Networks,small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.iwnl.co.uk/,0.4%
+E14001039,Wigan,UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,100.0%
+E14001040,Wimbledon,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,96.2%
+E14001040,Wimbledon,SES,SES Water,regional water only company,,https://seswater.co.uk/,3.8%
+E14001041,Winchester,SRN,Southern Water,regional water and sewerage company,,https://www.southernwater.co.uk/,100.0%
+E14001041,Winchester,SEW,South East Water,regional water only company,,https://www.southeastwater.co.uk/,0.0%
+E14001042,Windsor,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,44.2%
+E14001042,Windsor,AFW,Affinity Water,regional water only company,,https://www.affinitywater.co.uk/,35.3%
+E14001042,Windsor,SEW,South East Water,regional water only company,,https://www.southeastwater.co.uk/,20.5%
+E14001043,Wirral South,UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,100.0%
+E14001044,Wirral West,UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,100.0%
+E14001045,Witham,ANH,Anglian Water,regional water and sewerage company,,https://www.anglianwater.co.uk/,50.4%
+E14001045,Witham,NES,Essex & Suffolk Water (part of Northumbrian Water),regional water and sewerage company,,https://www.nwl.co.uk/,49.6%
+E14001046,Witney,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,100.0%
+E14001046,Witney,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,0.0%
+E14001047,Woking,AFW,Affinity Water,regional water only company,,https://www.affinitywater.co.uk/,97.5%
+E14001047,Woking,SEW,South East Water,regional water only company,,https://www.southeastwater.co.uk/,2.5%
+E14001048,Wokingham,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,64.5%
+E14001048,Wokingham,SEW,South East Water,regional water only company,,https://www.southeastwater.co.uk/,35.5%
+E14001049,Wolverhampton North East,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,100.0%
+E14001050,Wolverhampton South East,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,89.2%
+E14001050,Wolverhampton South East,SSC,South Staffordshire Water,regional water only company,,https://www.south-staffs-water.co.uk/,10.8%
+E14001051,Wolverhampton South West,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,100.0%
+E14001052,Worcester,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,100.0%
+E14001053,Workington,UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,100.0%
+E14001054,Worsley and Eccles South,UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,100.0%
+E14001055,Worthing West,SRN,Southern Water,regional water and sewerage company,,https://www.southernwater.co.uk/,100.0%
+E14001056,Wycombe,TMS,Thames Water,regional water and sewerage company,,https://www.thameswater.co.uk/,94.2%
+E14001056,Wycombe,AFW,Affinity Water,regional water only company,,https://www.affinitywater.co.uk/,5.8%
+E14001056,Wycombe,SEW,South East Water,regional water only company,,https://www.southeastwater.co.uk/,0.0%
+E14001057,Wyre and Preston North,UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,100.0%
+E14001058,Wyre Forest,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,100.0%
+E14001058,Wyre Forest,SSC,South Staffordshire Water,regional water only company,,https://www.south-staffs-water.co.uk/,0.0%
+E14001059,Wythenshawe and Sale East,UUW,United Utilities,regional water and sewerage company,,https://www.unitedutilities.com/,100.0%
+E14001060,Yeovil,WSX,Wessex Water,regional water and sewerage company,,https://www.wessexwater.co.uk/,100.0%
+E14001060,Yeovil,SWB,South West Water,regional water and sewerage company,,https://www.southwestwater.co.uk/,0.0%
+E14001061,York Central,YKY,Yorkshire Water,regional water and sewerage company,,https://www.yorkshirewater.com/,100.0%
+E14001062,York Outer,YKY,Yorkshire Water,regional water and sewerage company,,https://www.yorkshirewater.com/,100.0%
+W07000041,Ynys Môn,WSH,Dŵr Cymru,regional water and sewerage company,,https://www.dwrcymru.com/en,100.0%
+W07000042,Delyn,WSH,Dŵr Cymru,regional water and sewerage company,,https://www.dwrcymru.com/en,97.2%
+W07000042,Delyn,HDD,Hafren Dyfrdwy,regional water and sewerage company,,https://www.hdcymru.co.uk/,2.8%
+W07000043,Alyn and Deeside,WSH,Dŵr Cymru,regional water and sewerage company,,https://www.dwrcymru.com/en,68.8%
+W07000043,Alyn and Deeside,HDD,Hafren Dyfrdwy,regional water and sewerage company,,https://www.hdcymru.co.uk/,31.2%
+W07000043,Alyn and Deeside,ALBE,Albion Eco,small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.waterlevel.uk/,0.0%
+W07000044,Wrexham,HDD,Hafren Dyfrdwy,regional water and sewerage company,,https://www.hdcymru.co.uk/,100.0%
+W07000045,Llanelli,WSH,Dŵr Cymru,regional water and sewerage company,,https://www.dwrcymru.com/en,100.0%
+W07000046,Gower,WSH,Dŵr Cymru,regional water and sewerage company,,https://www.dwrcymru.com/en,100.0%
+W07000047,Swansea West,WSH,Dŵr Cymru,regional water and sewerage company,,https://www.dwrcymru.com/en,100.0%
+W07000048,Swansea East,WSH,Dŵr Cymru,regional water and sewerage company,,https://www.dwrcymru.com/en,100.0%
+W07000049,Aberavon,WSH,Dŵr Cymru,regional water and sewerage company,,https://www.dwrcymru.com/en,100.0%
+W07000050,Cardiff Central,WSH,Dŵr Cymru,regional water and sewerage company,,https://www.dwrcymru.com/en,100.0%
+W07000051,Cardiff North,WSH,Dŵr Cymru,regional water and sewerage company,,https://www.dwrcymru.com/en,100.0%
+W07000052,Rhondda,WSH,Dŵr Cymru,regional water and sewerage company,,https://www.dwrcymru.com/en,100.0%
+W07000053,Torfaen,WSH,Dŵr Cymru,regional water and sewerage company,,https://www.dwrcymru.com/en,100.0%
+W07000054,Monmouth,WSH,Dŵr Cymru,regional water and sewerage company,,https://www.dwrcymru.com/en,100.0%
+W07000054,Monmouth,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,0.0%
+W07000055,Newport East,WSH,Dŵr Cymru,regional water and sewerage company,,https://www.dwrcymru.com/en,100.0%
+W07000056,Newport West,WSH,Dŵr Cymru,regional water and sewerage company,,https://www.dwrcymru.com/en,100.0%
+W07000057,Arfon,WSH,Dŵr Cymru,regional water and sewerage company,,https://www.dwrcymru.com/en,100.0%
+W07000058,Aberconwy,WSH,Dŵr Cymru,regional water and sewerage company,,https://www.dwrcymru.com/en,100.0%
+W07000059,Clwyd West,WSH,Dŵr Cymru,regional water and sewerage company,,https://www.dwrcymru.com/en,100.0%
+W07000060,Vale of Clwyd,WSH,Dŵr Cymru,regional water and sewerage company,,https://www.dwrcymru.com/en,100.0%
+W07000061,Dwyfor Meirionnydd,WSH,Dŵr Cymru,regional water and sewerage company,,https://www.dwrcymru.com/en,100.0%
+W07000061,Dwyfor Meirionnydd,HDD,Hafren Dyfrdwy,regional water and sewerage company,,https://www.hdcymru.co.uk/,0.0%
+W07000062,Clwyd South,HDD,Hafren Dyfrdwy,regional water and sewerage company,,https://www.hdcymru.co.uk/,93.8%
+W07000062,Clwyd South,WSH,Dŵr Cymru,regional water and sewerage company,,https://www.dwrcymru.com/en,6.2%
+W07000062,Clwyd South,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,0.0%
+W07000063,Montgomeryshire,HDD,Hafren Dyfrdwy,regional water and sewerage company,,https://www.hdcymru.co.uk/,100.0%
+W07000063,Montgomeryshire,WSH,Dŵr Cymru,regional water and sewerage company,,https://www.dwrcymru.com/en,0.0%
+W07000064,Ceredigion,WSH,Dŵr Cymru,regional water and sewerage company,,https://www.dwrcymru.com/en,100.0%
+W07000065,Preseli Pembrokeshire,WSH,Dŵr Cymru,regional water and sewerage company,,https://www.dwrcymru.com/en,100.0%
+W07000066,Carmarthen West and South Pembrokeshire,WSH,Dŵr Cymru,regional water and sewerage company,,https://www.dwrcymru.com/en,100.0%
+W07000067,Carmarthen East and Dinefwr,WSH,Dŵr Cymru,regional water and sewerage company,,https://www.dwrcymru.com/en,100.0%
+W07000068,Brecon and Radnorshire,WSH,Dŵr Cymru,regional water and sewerage company,,https://www.dwrcymru.com/en,100.0%
+W07000068,Brecon and Radnorshire,SVE,Severn Trent Water,regional water and sewerage company,,https://www.stwater.co.uk/,0.0%
+W07000068,Brecon and Radnorshire,HDD,Hafren Dyfrdwy,regional water and sewerage company,,https://www.hdcymru.co.uk/,0.0%
+W07000069,Neath,WSH,Dŵr Cymru,regional water and sewerage company,,https://www.dwrcymru.com/en,100.0%
+W07000070,Cynon Valley,WSH,Dŵr Cymru,regional water and sewerage company,,https://www.dwrcymru.com/en,100.0%
+W07000071,Merthyr Tydfil and Rhymney,WSH,Dŵr Cymru,regional water and sewerage company,,https://www.dwrcymru.com/en,100.0%
+W07000072,Blaenau Gwent,WSH,Dŵr Cymru,regional water and sewerage company,,https://www.dwrcymru.com/en,100.0%
+W07000073,Bridgend,WSH,Dŵr Cymru,regional water and sewerage company,,https://www.dwrcymru.com/en,100.0%
+W07000074,Ogmore,WSH,Dŵr Cymru,regional water and sewerage company,,https://www.dwrcymru.com/en,99.3%
+W07000074,Ogmore,SSE,Leep Networks (Water),small new entrant water/sewerage company (sometimes referred to as a NAV),New entrant (NAV) company,https://www.leeputilities.co.uk/water,0.7%
+W07000075,Pontypridd,WSH,Dŵr Cymru,regional water and sewerage company,,https://www.dwrcymru.com/en,100.0%
+W07000076,Caerphilly,WSH,Dŵr Cymru,regional water and sewerage company,,https://www.dwrcymru.com/en,100.0%
+W07000077,Islwyn,WSH,Dŵr Cymru,regional water and sewerage company,,https://www.dwrcymru.com/en,100.0%
+W07000078,Vale of Glamorgan,WSH,Dŵr Cymru,regional water and sewerage company,,https://www.dwrcymru.com/en,100.0%
+W07000079,Cardiff West,WSH,Dŵr Cymru,regional water and sewerage company,,https://www.dwrcymru.com/en,100.0%
+W07000080,Cardiff South and Penarth,WSH,Dŵr Cymru,regional water and sewerage company,,https://www.dwrcymru.com/en,100.0%
