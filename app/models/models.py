@@ -1,6 +1,8 @@
 import uuid
+from datetime import datetime, timezone
 from sqlalchemy.ext.declarative import declarative_base
-from sqlalchemy import Column, String, Boolean, BigInteger
+from sqlalchemy import Column, String, Boolean, BigInteger, Date, DateTime, ForeignKey
+from sqlalchemy.orm import relationship
 from sqlalchemy.dialects.postgresql import UUID
 
 # Base class for all models
@@ -10,18 +12,52 @@ Base = declarative_base()
 class Category(Base):
     __tablename__ = "categories"
     id = Column(BigInteger, primary_key=True, index=True, autoincrement=True)
-    name = Column(String)
-    label = Column(String)
+    name = Column(String, nullable=False)
+    label = Column(String, nullable=False)
 
 
-class MPlan(Base):
-    __tablename__ = "mplan"
+class MplanCategory(Base):
+    __tablename__ = "mplan_categories"
     id = Column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4, index=True)
+    label = Column(String, nullable=False)
+    is_completed = Column(Boolean, default=False)
+
+    # Foreign key relationship with Mplan
+    mplan_id = Column(UUID(as_uuid=True), ForeignKey("mplans.id"))
+    mplan = relationship("Mplan", back_populates="selected_categories")
+
+
+class Mplan(Base):
+    __tablename__ = "mplans"
+    id = Column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4, index=True)
+    moving_date = Column(Date, nullable=False)
+    old_address = Column(String, nullable=False)
+    new_address = Column(String, nullable=False)
+    created_at = Column(DateTime, default=lambda: datetime.now(timezone.utc))
+    modified_at = Column(
+        DateTime,
+        default=lambda: datetime.now(timezone.utc),
+        onupdate=lambda: datetime.now(timezone.utc),
+    )
+
+    # Foreign key relationship with User
+    user_id = Column(UUID(as_uuid=True), ForeignKey("users.id"), nullable=False)
+    user = relationship("User", back_populates="mplans")
+
+    # One-to-many relationship with Category
+    selected_categories = relationship(
+        "MplanCategory", back_populates="mplan", cascade="all, delete-orphan"
+    )
 
 
 class User(Base):
     __tablename__ = "users"
     id = Column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4, index=True)
+    username = Column(String, unique=True, nullable=False)
+    email = Column(String, unique=True, nullable=False)
+
+    # One-to-many relationship with Mplan
+    mplans = relationship("Mplan", back_populates="user", cascade="all, delete-orphan")
 
 
 class Council(Base):

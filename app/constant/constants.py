@@ -1,5 +1,5 @@
 CATEGORIES = [
-    {"name": "DLVA", "label": "dlva"},
+    {"name": "DVLA", "label": "dvla"},
     {"name": "Vehicle log book", "label": "vehicle_log_book"},
     {"name": "Council tax", "label": "council"},
     {"name": "HM Revenue & Customs (HMRC)", "label": "hmrc"},

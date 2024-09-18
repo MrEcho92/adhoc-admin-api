@@ -232,4 +232,6 @@ def main():
 
 
 if __name__ == "__main__":
+    print("Creating prepopulate data")
     main()
+    print("Prepopulate data created")
