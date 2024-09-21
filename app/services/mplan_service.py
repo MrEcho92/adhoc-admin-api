@@ -2,6 +2,7 @@ from fastapi import HTTPException
 from sqlalchemy.orm import Session
 from sqlalchemy.exc import SQLAlchemyError
 from sqlalchemy import func, or_
+from typing import Any
 from uuid import UUID
 from datetime import datetime, timezone
 from app.schema.mplan_schema import MplanSchema, MplanSchemaCreate, MplanDetailSchema
@@ -40,18 +41,13 @@ class MplanService:
             raise e
 
     def get_mplan_details(
-        self, db: Session, mplan_id: UUID, user_id: UUID
+        self, db: Session, mplan_id: UUID, user_id: UUID, address_info: Any
     ) -> MplanDetailSchema:
         try:
             mplan = self.get_mplan(db, mplan_id, user_id)
             if not mplan:
                 raise HTTPException(status_code=404, detail="MPlan not found")
-            address_info = {
-                "county": "Oxfordshire",
-                "district": "Vale Of White Horse",
-                "country": "England",
-                "town_or_city": "Abingdon",
-            }
+
             councils = (
                 db.query(models.Council)
                 .filter(

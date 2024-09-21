@@ -23,10 +23,22 @@ async def get_mplans_by_user_id(user_id: UUID, db: Session = Depends(get_db)) ->
     "/mplans/detail", response_model=MplanDetailSchema, status_code=status.HTTP_200_OK
 )
 async def get_mplan_details(
-    mplan_id: UUID, user_id: UUID, db: Session = Depends(get_db)
+    mplan_id: UUID,
+    user_id: UUID,
+    county: str,
+    district: str,
+    country: str,
+    town_or_city: str,
+    db: Session = Depends(get_db),
 ) -> Any:
+    address_info = {
+        "county": county,
+        "district": district,
+        "country": country,
+        "town_or_city": town_or_city,
+    }
     try:
-        return mplan_service.get_mplan_details(db, mplan_id, user_id)
+        return mplan_service.get_mplan_details(db, mplan_id, user_id, address_info)
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Error getting mplan detail: {e}")
 
